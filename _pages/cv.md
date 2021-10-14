@@ -11,7 +11,7 @@ redirect_from:
 
 or try this
 
-[CV](https://drive.google.com/drive/u/0/folders/1VNkp8YAgi2dhVZYNYet7-BMaKC3z_yst)
+[CV](https://drive.google.com/drive/u/0/folders/1VNkp8YAgi2dhVZYNYet7-BMaKC3z_yst/10.13-SA-cv.pdf)
 
 or maybe??
 
