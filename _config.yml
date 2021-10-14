@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel Anderson"
-  avatar           : "profile.png"
-  bio              : "Hi! It me"
+  name             : "Samuel Anderson (Sam)"
+  avatar           : "images/linked_head.png"
+  bio              : "PhD Candidate in Accounting @ MIT"
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : ""
-  email            :
+  email            : "ssander@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
