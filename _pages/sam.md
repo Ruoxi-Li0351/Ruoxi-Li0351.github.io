@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 When I'm not working you can find me:
-* Cooking and eating (constantly)
+* Cooking and eating
 * Running
 * Cycling
 * Hiking

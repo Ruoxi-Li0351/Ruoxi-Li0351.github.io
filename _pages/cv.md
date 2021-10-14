@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my CV <a href="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" target="_blank">here</a>
+<a href="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" target="_blank">View in browser</a>
 
 <!-- or maybe??
 

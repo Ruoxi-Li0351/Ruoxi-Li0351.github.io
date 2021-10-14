@@ -87,11 +87,12 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Anderson"
-  pronoun          : "(He/Him)"
+  pronouns         : "(He/Him)"
   avatar           : "wp.jpg"
   bio              : "PhD Candidate in Accounting @ MIT"
   location         : "Cambridge, MA"
-  employer         : 
+  employer         :
+  university       : "MIT"
   pubmed           : #""
   googlescholar    : #""
   email            : "ssander@mit.edu"
@@ -122,10 +123,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "school"
-      icon: "favicon.ico"
-      url: "https://mitsloan.mit.edu/phd/students/samuel-anderson"
+  school           : "https://mitsloan.mit.edu/phd/students/samuel-anderson"
 
 
 # Reading Files
