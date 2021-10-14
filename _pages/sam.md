@@ -15,5 +15,4 @@ When I'm not working you can find me:
 * Playing soccer, tennis, golf, basketball
 * Watching Netflix
 * Programming
-* Trying to fix things around the house (emphasis on trying)
   
