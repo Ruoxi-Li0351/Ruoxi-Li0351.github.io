@@ -26,9 +26,9 @@ Summary: I analyze firms’ decisions to disaggregate financial statement line i
 
 <!-- [Download]() -->
 
-### Future Work
+<!-- ### Future Work
 
-Some topics that I hope to explore in the future include the role of corporate disclosures in managing climate and sustainability efforts as well as the use of accounting information by less traditional stakeholders such as consumers and employees. I am very interested in the risks posed by climate change as well as the movement towards sustainability and inclusion. Given the increasing supply and access of accounting information as well as the rapidly evolving regulatory and disclosure landscape with respect to climate goals, I feel that research on these topics is compelling and has the potential to answer questions of economic significance.
+Some topics that I hope to explore in the future include the role of corporate disclosures in managing climate and sustainability efforts as well as the use of accounting information by less traditional stakeholders such as consumers and employees. I am very interested in the risks posed by climate change as well as the movement towards sustainability and inclusion. Given the increasing supply and access of accounting information as well as the rapidly evolving regulatory and disclosure landscape with respect to climate goals, I feel that research on these topics is compelling and has the potential to answer questions of economic significance. -->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
