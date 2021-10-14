@@ -8,7 +8,7 @@ author_profile: true
 ### *"Mispricing and the Demand for Fundamental Information"* (JMP)
 Summary: I examine whether mispricing drives investors to consume accounting information. I find that mutual fund flow-induced mispricing increases the consumption of accounting information, especially for sophisticated investors. In addition, I find that information consumption following mutual fund fire sales predicts both the extent to which prices return to pre-fire sale levels as well as the speed of return reversals. These findings suggest that mispricing increases the demand for fundamental information contained in accounting reports and highlight the role of accounting information in the path of price discovery for mispriced firms.
 
-<a href="https://drive.google.com/file/d/14946GO4xQpTThzPSk473yAIO9YVBTJPF/view?usp=sharing" target="_blank">View in Browser</a>
+<a href="https://drive.google.com/file/d/1zFnWspBHov-FnWhxFMOQWXZidv7_SGSM/view?usp=sharing" target="_blank">View in Browser</a>
 
 <!-- [Download]() -->
 
