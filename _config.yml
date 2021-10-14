@@ -85,7 +85,7 @@ author:
   avatar           : "wp.jpg"
   bio              : "PhD Candidate in Accounting @ MIT"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "https://mitsloan.mit.edu/phd/students/samuel-anderson"
   pubmed           : #""
   googlescholar    : #""
   email            : "ssander@mit.edu"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samuel-anderson-4255a987/"
+  linkedin         : "samuel-anderson-4255a987"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
