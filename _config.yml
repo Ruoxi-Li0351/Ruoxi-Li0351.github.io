@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Anderson"
+  pronoun          : "(He/Him)"
   avatar           : "wp.jpg"
   bio              : "PhD Candidate in Accounting @ MIT"
   location         : "Cambridge, MA"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #""
+  linkedin         : "https://www.linkedin.com/in/samuel-anderson-4255a987/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

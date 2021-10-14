@@ -1,16 +1,19 @@
 ---
 layout: archive
-title: "About Me"
+title: "!= Work"
 permalink: /sam/
 author_profile: true
 ---
 
-Beyond accounting, you can find me:
-* Cooking and eating
-* Playing the guitar
+When I'm not working you can find me:
+* Cooking and eating (constantly)
+* Playing guitar
 * Running and cycling
-* Hiking
-* Traveling
-* Watching TV
-* Programming and being a nerd
+* Hiking and kayaking
+* Traveling and experiencing new things
+* Eating some more
+* Playing soccer, tennis, golf, basketball
+* Watching Netflix
+* Programming
+* Trying to fix things around the house (emphasis on trying)
   
