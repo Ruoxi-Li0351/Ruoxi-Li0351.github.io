@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://drive.google.com/file/d/1nSoq26mJAsxuTds2bwQxxBl5LoUVNgC5/view?usp=sharing" target="_blank">View in browser</a>
 
 <!-- or maybe??
 
