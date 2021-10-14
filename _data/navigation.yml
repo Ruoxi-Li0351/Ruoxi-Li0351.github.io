@@ -3,13 +3,16 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
     
   # - title: "Data"
   #   url: /data/
   
-  - title: "About Me"
+  - title: "!= Work"
     url: /sam/
     
   # - title: "Guide"
