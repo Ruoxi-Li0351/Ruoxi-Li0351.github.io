@@ -9,22 +9,35 @@ My primary teaching interests lie in financial accounting and financial statemen
 
 ### Instructor
 
+#### BYU
 Intermediate Financial Accounting
+* Rating 4.7/5.0
+* <a href = "">Evaluations</a>
 
 ### Teaching Assistant
 
 #### MIT
-Corporate Financial Accounting with John Core (MFin)
 
-Corporate Financial Accounting with SP Kothari (Sloan Fellows)
+Corporate Financial Accounting (MFin) - Summer 2020 (remote)
+* Rating: 6.7/7.0
+* <a href = "">Evaluations</a>
 
-Accounting Information for Decision Makers with John Core and Chris Noe (eMBA)
+Corporate Financial Accounting (MFin) - Summer 2019
+* Rating: 6.7/7.0
+* <a href = "">Evaluations</a>
+  
+Accounting Information for Decision Makers (eMBA) - Jan 2020
+* Rating: 7.0/7.0
+* <a href = "">Evaluations</a>
+
+Corporate Financial Accounting (Sloan Fellows MBA) - 
+* Rating: 6.3/7.0
+* <a href = "">Evaluations</a>
 
 #### BYU
-Introduction to Accounting
+Introduction to Accounting (undergrad)
 
-Intermediate Financial Accounting
+Intermediate Financial Accounting (undergrad)
 
 ### Course Development
-
-MITx Financial Accounting
+MITx Financial Accounting (online)
