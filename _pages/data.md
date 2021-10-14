@@ -5,4 +5,12 @@ permalink: /data/
 author_profile: true
 ---
 
-Data stuff
+Below I share some useful
+
+# EDGAR
+
+### EDGAR keyword search
+Link
+
+### EDGAR log files
+Link

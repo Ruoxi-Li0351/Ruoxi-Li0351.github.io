@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Data"
-    url: /data/
+  # - title: "Data"
+  #   url: /data/
   
   - title: "About Me"
     url: /sam/
