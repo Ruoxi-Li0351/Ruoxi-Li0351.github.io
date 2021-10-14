@@ -16,8 +16,8 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.pronouns %}<p class="author_bio">{{ author.pronouns }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -27,7 +27,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.university %}
-      <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.university }}</li>
+      <li><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> {{ author.university }}</li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -123,10 +123,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.school %}
-        <li><a href="{{ author.school }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Impactstory</a></li>
-      {% endif %}
-      {% if author.phone %}
-        <li><a href="{{ author.phone }}"><i class="ai ai-impactstory ai-fw" aria-hidden="true"></i> Impactstory</a></li>
+        <li><a href="{{ author.school }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i>School Website</a></li>
       {% endif %}
     </ul>
   </div>
