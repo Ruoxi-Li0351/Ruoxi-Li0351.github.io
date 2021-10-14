@@ -7,12 +7,14 @@ author_profile: true
 
 When I'm not working you can find me:
 * Cooking and eating (constantly)
+* Running
+* Cycling
+* Hiking
 * Playing guitar
-* Running and cycling
-* Hiking and kayaking
-* Traveling and experiencing new things
+* Spending time with family
+* Traveling
 * Eating some more
-* Playing soccer, tennis, golf, basketball
+* Playing sports
 * Watching Netflix
 * Programming
   
