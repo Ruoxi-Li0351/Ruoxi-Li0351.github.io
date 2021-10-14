@@ -13,7 +13,7 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 <!-- I became interested in financial markets from a young age when an uncle of mine challenged me to create a fake investment portfolio on Investopedia. I imagine I was quite the sight to see - a 12-year old clicking through Yahoo! Finance financial data - however, since then, I have always been interested in understanding the usefulness of accounting information. -->
 
 <!-- My research interests focus on the intersection between accounting and finance. In particular,  -->
-My current work explores the use of accounting information and corporate disclosures across various stakeholders and its effects on capital markets and firms' economic decisions. 
+My current work explores the usefulness of accounting information and other corporate disclosures across various stakeholders and its impact on capital markets. 
 
 In my job market paper, I study whether mispricing drives investors to consume accounting information. I find this question quite interesting given that one of the major roles of accounting information is to aid in valuation. As prices deviate from fundamental value, the usefulness of accounting information to investors increases significantly. To learn more about my study and what I find, I encourage you to take a look at a recent draft which can be found <a href="https://drive.google.com/file/d/1zFnWspBHov-FnWhxFMOQWXZidv7_SGSM/view?usp=sharing" target="_blank">here</a> as well as on my research page.
 
