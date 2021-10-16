@@ -11,8 +11,7 @@ When I'm not working you can find me:
 * Cycling
 * Playing guitar
 * Hiking
-* Hanging with friends
-* Visiting family
+* With friends and family
 * Traveling
 * Eating some more
 * Playing sports
