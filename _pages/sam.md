@@ -16,6 +16,7 @@ When I'm not working you can find me:
 * Traveling
 * Eating some more
 * Playing sports
+* Losing to my mom in fantasy football
 * Watching Netflix
 * Programming
   
