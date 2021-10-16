@@ -9,9 +9,10 @@ When I'm not working you can find me:
 * Cooking and eating
 * Running
 * Cycling
-* Hiking
 * Playing guitar
-* Spending time with family
+* Hiking
+* Hanging with friends
+* Visiting family
 * Traveling
 * Eating some more
 * Playing sports
