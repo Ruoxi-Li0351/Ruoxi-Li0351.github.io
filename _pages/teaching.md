@@ -19,7 +19,7 @@ Intermediate Financial Accounting - Winter 2016
 <!-- #### MIT -->
 
 Corporate Financial Accounting (MFin) - Summer 2020 (remote)
-* Rating: 6.7/7.0</p>
+* Rating: 6.7/7.0
 * <a href = "https://drive.google.com/file/d/1ugVlhgS-h3B-n4h_OAWU5ADt9_nPPUfo/view?usp=sharing" target="_blank">Evaluations</a>
 
 Corporate Financial Accounting (MFin) - Summer 2019
