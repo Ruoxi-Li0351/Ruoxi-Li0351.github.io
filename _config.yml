@@ -10,7 +10,7 @@
 # minimal_mistakes_skin: "air"
 
 locale                   : "en-US"
-title                    : "Samuel Anderson"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samuel Anderson"
 description              : &description "PhD Candidate in Accounting - MIT Sloan"
@@ -89,7 +89,7 @@ author:
   name             : "Samuel Anderson"
   pronouns         : "(He/Him)"
   avatar           : "linked_head.png"
-  bio              : "PhD Candidate (Accounting) @ MIT"
+  bio              : "PhD Candidate in Accounting @ MIT"
   location         : "Cambridge, MA"
   employer         :
   university       : "MIT"
