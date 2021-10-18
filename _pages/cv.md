@@ -11,10 +11,32 @@ redirect_from:
 
 <a href="https://drive.google.com/file/d/1nSoq26mJAsxuTds2bwQxxBl5LoUVNgC5/view?usp=sharing" target="_blank">View in browser</a>
 
+### Dissertation Committee
+
+**Eric So** (Co-Chair) <br>
+*Sloan Distinguished Professor of Management*<br>
+MIT Sloan School of Management<br>
++1 617-253-6470<br>
+<a href="mailto:eso@mit.edu">eso@mit.edu</a>
+
+**Joseph Weber** (Co-Chair) <br>
+*George Maverick Bunker Professor of Management*<br>
+MIT Sloan School of Management<br>
++1 617-253-4310<br>
+<a href="mailto:eso@mit.edu">eso@mit.edu</a>
+
+**Rodrigo Verdi** <br>
+*Nanyang Technological University Professor of Management*<br>
+MIT Sloan School of Management<br>
++1 617-253-2956<br>
+<a href="mailto:eso@mit.edu">eso@mit.edu</a>
+
 <!-- or maybe??
 
 <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
  -->
+
+<object data="/files/10.18-SA-cv.pdf" type="application/pdf" width="700px" height="700px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
