@@ -12,8 +12,8 @@ When I'm not working you can find me:
 * Running
 * Cycling
 * Playing guitar
-* Losing to my mom in fantasy football
 * Traveling and exploring
 * Eating some more
 * Programming
+* Losing to my mom in fantasy football
   
