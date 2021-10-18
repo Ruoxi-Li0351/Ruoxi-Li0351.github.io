@@ -9,14 +9,15 @@ author_profile: true
 
 When I'm not working you can find me:
 * Cooking / eating
-* Running / cycling
+* Running
+* Cycling
 * Spending time with friends and family
-* Traveling
+<!-- * Traveling -->
 <!-- * Enjoying the outdoors -->
 <!-- * Hiking -->
-<!-- * Traveling and exploring -->
+* Exploring new places
 <!-- * Eating some more -->
-* Wishing I had a dog
+<!-- * Wishing I had a dog -->
 * Programming
 * Losing to my mom in fantasy football
 <!-- * Watching Netflix -->
