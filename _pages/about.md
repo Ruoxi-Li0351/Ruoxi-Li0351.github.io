@@ -18,6 +18,12 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 
 Broadly speaking, I'm interested in (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the role of disclosure and firm-level commitments with respect to both corporate and macroeconomic sustainability efforts.
 
-In my job market paper, I study whether mispricing drives investors to consume accounting information. I think this question is quite interesting given that one of the major roles of accounting information is to aid in valuation. As prices deviate from fundamental value, the usefulness of accounting information to investors increases significantly. To learn more about my study and what I find, I encourage you to take a look at a recent draft which can be found <a href="https://drive.google.com/file/d/1zFnWspBHov-FnWhxFMOQWXZidv7_SGSM/view?usp=sharing" target="_blank">here</a> as well as on my research page.
+In my dissertation, I study whether mispricing drives investors to consume accounting information and whether this consumption predicts the path of price discovery. I am advised by Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi.
+
+<!-- In my job market paper, I study whether mispricing drives investors to consume accounting information. I find this question quite interesting given that the ability of accounting information to aid in valuation depends almost entirely on its consumption. As such, as prices deviate from fundamentals, the usefulness of accounting information increases significantly.
+
+I think this question is quite interesting given that one of the major roles of accounting information is to aid in valuation and that its ability to do so depends almost entirely on investors consuming its content. As prices deviate from fundamental value, the usefulness of accounting information increases significantly. I study whether   -->
+
+<!-- To learn more about my study and what I find, I encourage you to take a look at a recent draft which can be found <a href="https://drive.google.com/file/d/1zFnWspBHov-FnWhxFMOQWXZidv7_SGSM/view?usp=sharing" target="_blank">here</a>. -->
 
 <!-- My research interests center on the intersection between accounting and finance. I believe that my background in accounting has given me a as accounting researchers Specifically -->
