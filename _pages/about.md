@@ -16,9 +16,9 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 <!-- My current work explores the usefulness of accounting information across various stakeholders and its impact on capital markets.  -->
 <!-- Broadly speaking, I'm interested in understanding (1) how various stakeholders use accounting information and its impact on capital markets and (2) how corporate disclosures affect both traditional and non-traditional stakeholders. -->
 
-Broadly speaking, I'm interested in (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the role of disclosure and firm-level commitments with respect to both corporate and macroeconomic sustainability efforts.
+Broadly speaking, I'm interested in (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the role of disclosure and firm-level commitments with respect to both corporate and macroeconomic sustainability efforts. 
 
-In my dissertation, I study whether mispricing drives investors to consume accounting information. I am advised by Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi.
+<!-- In my dissertation, I study whether mispricing drives investors to consume accounting information. I am advised by Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi. -->
 
 <!-- In my job market paper, I study whether mispricing drives investors to consume accounting information. I find this question quite interesting given that the ability of accounting information to aid in valuation depends almost entirely on its consumption. As such, as prices deviate from fundamentals, the usefulness of accounting information increases significantly.
 
