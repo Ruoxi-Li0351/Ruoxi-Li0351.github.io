@@ -18,7 +18,7 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 
 Broadly speaking, I'm interested in (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the role of disclosure and firm-level commitments with respect to both corporate and macroeconomic sustainability efforts. 
 
-<!-- In my dissertation, I study whether mispricing drives investors to consume accounting information. I am advised by Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi. -->
+In my dissertation, I examine whether mispricing drives investors to consume accounting information. I am advised by Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi.
 
 <!-- In my job market paper, I study whether mispricing drives investors to consume accounting information. I find this question quite interesting given that the ability of accounting information to aid in valuation depends almost entirely on its consumption. As such, as prices deviate from fundamentals, the usefulness of accounting information increases significantly.
 
