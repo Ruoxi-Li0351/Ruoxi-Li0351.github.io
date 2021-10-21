@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### *"Mispricing and the Demand for Fundamental Information"* (JMP)
-Summary: I provide evidence that mispricing affects investors' consumption of accounting information. Using quasi-exogenous variation in security prices due to forced mutual fund sales, I find that mispricing increases the consumption of accounting reports in subsequent periods, especially among institutional investors. I also find that information consumption following shocks to mispricing predicts both the size and speed of return reversals as well as price informativeness around future earnings events. Taken together, my findings suggest that mutual fund flow-induced mispricing shapes investors' information consumption decisions and that this consumption predicts the path of price discovery for mispriced firms.
+Summary: I provide evidence that mispricing affects investors' consumption of accounting information. Using quasi-exogenous variation in security prices due to forced mutual fund sales, I find that mispricing increases the consumption of accounting reports in subsequent periods, especially among institutional investors. I also find that information consumption following a mutual fund fire sale predicts price discovery in terms of both the size and speed of return reversals as well as price informativeness around future earnings events. Taken together, my findings suggest that mutual fund flow-induced mispricing shapes investors' information consumption decisions and that this consumption predicts the path of price discovery for mispriced firms.
 
 Dissertation Committee: Professors Eric So (co-chair), Joseph Weber (co-chair), and Rodrigo Verdi
 
