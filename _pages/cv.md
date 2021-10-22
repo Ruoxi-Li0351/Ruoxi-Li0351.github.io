@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1nSoq26mJAsxuTds2bwQxxBl5LoUVNgC5/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://drive.google.com/file/d/1HFXaeiItVDhYxNfXUTvgDqwkbMZ-9DdH/view?usp=sharing" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
@@ -36,7 +36,7 @@ MIT Sloan School of Management<br>
 <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
  -->
 
-<object data="/files/10.18-SA-cv.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/10.22-SA-cv.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
