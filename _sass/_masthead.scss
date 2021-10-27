@@ -47,6 +47,7 @@
   white-space: nowrap;
 
   &--lg {
+    flex-grow: 1;
     padding-right: 2em;
     font-weight: 700;
   }
