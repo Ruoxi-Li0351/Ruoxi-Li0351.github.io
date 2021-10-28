@@ -18,7 +18,7 @@ Dissertation Committee: Professors Eric So (co-chair), Joseph Weber (co-chair), 
 
 <!-- [Download]() -->
 
-### *"Costly Contract Renegotiation: The Role of Accounting Disclosures"* with Joe Weber and Jieying Zhang
+### *"Costly Contract Renegotiation: The Role of Accounting Disclosures"* with Meng Li, Joseph Weber, Jieying Zhang
 Summary: We examine whether required disclosure of covenant violations affects the timing and extent to which debt contracts are renegotiated. Consistent with firms seeking to avoid disclosing a debt contract violation, we find that firms are three times more likely to agree to an amendment in the week before the end of the fiscal quarter. Moreover, we find that these renegotiations shift bargaining power to the lender such that they extract concessions from the borrower.
 
 <!-- [View in Browser](https://drive.google.com/file/d/1FP1Nj2xefm-u8ycFux1_6bbDXm2ay3Du/view?usp=sharing) -->
