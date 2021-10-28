@@ -16,7 +16,7 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 <!-- My current work explores the usefulness of accounting information across various stakeholders and its impact on capital markets.  -->
 <!-- Broadly speaking, I'm interested in understanding (1) how various stakeholders use accounting information and its impact on capital markets and (2) how corporate disclosures affect both traditional and non-traditional stakeholders. -->
 
-Broadly speaking, I'm interested in (1) how investors and other stakeholders use accounting reports and its impact on market outcomes, (2) the various forces that shape firms’ disclosures, and (3) the role of accounting and non-financial disclosures in facilitating both corporate and macroeconomic sustainability efforts.
+Broadly speaking, I'm interested in (1) how investors and other stakeholders use accounting reports and its impact on market outcomes, (2) the various forces that shape firms’ disclosures, and (3) the role of accounting and non-financial disclosures with respect to both corporate and macroeconomic sustainability efforts.
 
 <!-- (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the forces that shape firms’ disclosures as well as the role of accounting and other non-financial disclosures with respect to both corporate and macroeconomic sustainability efforts.  -->
 

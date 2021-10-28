@@ -26,7 +26,7 @@ Summary: We examine whether required disclosure of covenant violations affects t
 <!-- [Download]() -->
 
 ### *"The Information Content of Discretionary Disaggregation"*
-Summary: I analyze firms’ decisions to disaggregate financial statement line items into their component parts and whether this is related to firm performance. I find that the overall level of discretionary disaggregation is positively associated with both current and future performance, but that changes in discretionary disaggregation are negatively associated with performance. Together these findings provide preliminary evidence consistent with the idea that firms use disaggregation to manage the information environment.
+Summary: I analyze firms’ decisions to disaggregate financial statement line items into their component parts and whether this is related to firm performance. I find that the overall level of discretionary disaggregation is positively associated with both current and future performance, but that changes in discretionary disaggregation are negatively associated with performance. Investors underreact to the information content of discretionary disaggregation, resulting in predictable return patterns. Together, these findings provide preliminary evidence consistent with the idea that firms manage the information environment using disaggregation and that this is not easily unpacked by investors.
 
 <!-- [View in Browser](https://drive.google.com/file/d/1ztHCUw9Ij-dA_w6ZtKoZMgB8hscF9759/view?usp=sharing) -->
 
