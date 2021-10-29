@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1EoRjbaXLHV-DofAvYyY5mdlmbD3BfTkW/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://drive.google.com/file/d/1GYnkvRvwI75KyCa5j2Q-TiXDDR4XsqUT/view?usp=sharing" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
@@ -36,7 +36,7 @@ MIT Sloan School of Management<br>
 <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
  -->
 
-<object data="/files/10.28-SA-cv.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/anderson-sam-cv.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
