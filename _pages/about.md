@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan School of Management. I am on the 2021-2022 academic job market. Prior to joining the accounting group at MIT, I received my bachelor's and master's degree in accounting from Brigham Young University.
+My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan School of Management. I am on the 2021-2022 academic job market. Prior to joining the accounting group at MIT, I received my bachelor's and master's degrees in accounting from Brigham Young University.
 
 <!-- I became interested in financial markets from a young age when an uncle of mine challenged me to create a fake investment portfolio on Investopedia. I imagine I was quite the sight to see - a 12-year old clicking through Yahoo! Finance financial data - however, since then, I have always been interested in understanding the usefulness of accounting information. -->
 
