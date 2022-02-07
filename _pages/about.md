@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan School of Management. I am on the 2021-2022 academic job market. Prior to joining the accounting group at MIT, I received my bachelor's and master's degrees in accounting from Brigham Young University.
+My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan School of Management and expect to graduate in May 2022. Prior to joining the accounting group at MIT, I received my bachelor's and master's degrees in accounting from Brigham Young University.
 
 <!-- I became interested in financial markets from a young age when an uncle of mine challenged me to create a fake investment portfolio on Investopedia. I imagine I was quite the sight to see - a 12-year old clicking through Yahoo! Finance financial data - however, since then, I have always been interested in understanding the usefulness of accounting information. -->
 
@@ -16,7 +16,7 @@ My name is Sam and I'm a fifth-year accounting PhD student at the MIT Sloan Scho
 <!-- My current work explores the usefulness of accounting information across various stakeholders and its impact on capital markets.  -->
 <!-- Broadly speaking, I'm interested in understanding (1) how various stakeholders use accounting information and its impact on capital markets and (2) how corporate disclosures affect both traditional and non-traditional stakeholders. -->
 
-Broadly speaking, I'm interested in (1) how investors and other stakeholders use accounting reports and its impact on market outcomes, (2) the various forces that shape firms’ disclosures, and (3) the role of accounting and non-financial disclosures with respect to both corporate and macroeconomic sustainability efforts.
+Broadly speaking, my research centers on understanding (1) how investors and other stakeholders use accounting reports and its impact on market outcomes, (2) the various forces that shape firms’ disclosures, and (3) the role of accounting and non-financial disclosures with respect to both corporate and macroeconomic sustainability efforts.
 
 <!-- (1) how investors and other stakeholders learn from accounting reports and its impact on market outcomes and (2) the forces that shape firms’ disclosures as well as the role of accounting and other non-financial disclosures with respect to both corporate and macroeconomic sustainability efforts.  -->
 
