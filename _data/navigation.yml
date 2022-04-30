@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Teaching"
+    - title: "Teaching"
     url: /teaching/
 
     - title: "CV"
@@ -12,7 +12,7 @@ main:
   #- title: "Research"
   #  url: /research/
   
-  - title: "About My Cats"
+    - title: "About My Cats"
     url: /sam/
     
   # - title: "Guide"
