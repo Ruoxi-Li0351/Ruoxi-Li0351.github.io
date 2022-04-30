@@ -1,18 +1,18 @@
 # main links links
 main:
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/
 
-    - title: "CV"
+  - title: "CV"
     url: /cv/
+
+  - title: "Date"
+    url: /data/
     
-    - title: "Presentations, Workshops and Conferences"
-     url: /data/
-     
-  #- title: "Research"
-  #  url: /research/
+  # - title: "Data"
+  #   url: /data/
   
-    - title: "About My Cats"
+  - title: "About My Cats"
     url: /sam/
     
   # - title: "Guide"
