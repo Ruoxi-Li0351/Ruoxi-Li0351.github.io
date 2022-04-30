@@ -3,7 +3,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
+    - title: "CV"
     url: /cv/
     
     - title: "Presentations, Workshops and Conferences"
