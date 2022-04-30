@@ -12,11 +12,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Samuel Anderson"
-description              : &description "PhD Candidate in Accounting - MIT Sloan"
-url                      : https://ssander9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruoxi"
+description              : &description "PhD student - U Pitt"
+url                      : https://MexicaneCola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ssander9.github.io"
+repository               : "MexicaneCola.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # logo                     : "favicon.ico"
 breadcrumbs              : false # true, false (default)
@@ -86,16 +86,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel Anderson"
+  name             : "Ruoxi Li"
   pronouns         : "(He/Him)"
-  avatar           : "newhead2.jpg" #"SamRiver.jpg"
-  bio              : "PhD Candidate in Accounting @ MIT"
-  location         : "Cambridge, MA"
+  avatar           : 
+  bio              : "PhD student in Math @ UPitt"
+  location         : "Pittsburgh, PA"
   employer         :
-  university       : "MIT"
+  university       : "UPitt"
   pubmed           : #""
   googlescholar    : #""
-  email            : "ssander@mit.edu"
+  email            : "rul44@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,13 +104,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ssander9"
+  github           : "MexicaneCola"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sam-and"
+  linkedin         : 
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -123,7 +123,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  school           : "https://mitsloan.mit.edu/phd/students/samuel-anderson"
+  school           : "https://www.mathematics.pitt.edu/people/ruoxi-li"
 
 
 # Reading Files
