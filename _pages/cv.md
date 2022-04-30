@@ -33,7 +33,7 @@ MIT Sloan School of Management<br>
  -->
 <!-- or maybe??
 
-<embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf">
+<embed src="https://github.com/MexicaneCola/MexicaneCola.github.io/blob/main/files/CV_04302022.pdf" type="application/pdf">
  -->
 
 <object data="/CV_04302022.pdf" type="application/pdf" width="500px" height="500px"></object>
