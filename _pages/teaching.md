@@ -13,9 +13,9 @@ I have teached various of undergraduate level math courses and below is the list
 
 <!-- #### MIT -->
 
-Analytic Geometry \& Calculus 1, 2021, 2022
+Analytic Geometry & Calculus 1, 2021, 2022
 
-Analytic Geometry \& Calculus 2, 2021
+Analytic Geometry & Calculus 2, 2021
 
 Business Calculus, 2020, 2021
 
