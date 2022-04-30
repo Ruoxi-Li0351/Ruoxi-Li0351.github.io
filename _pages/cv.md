@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1GYnkvRvwI75KyCa5j2Q-TiXDDR4XsqUT/view?usp=sharing" target="_blank">View in browser</a>
+<a href="https://github.com/MexicaneCola/MexicaneCola.github.io/blob/main/files/CV_04302022.pdf">View in browser</a>
 
 <!-- ## Dissertation Committee
 
