@@ -6,7 +6,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Presentations, Workshops and Conferences"
+    - title: "Presentations, Workshops and Conferences"
      url: /data/
      
   #- title: "Research"
