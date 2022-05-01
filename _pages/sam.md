@@ -16,3 +16,4 @@ Here are my two ragdolls.
 <img src="https://github.com/MexicaneCola/MexicaneCola.github.io/blob/main/images/WechatIMG6.JPEG" class="img-responsive" alt=""> </div>
   
 [My image](mexicanecola.github.com/MexicaneCola/MexicaneCola.github.io/blob/main/images/WechatIMG5.jpeg)
+![Book logo](/MexicaneCola.github.io/blob/main/images/WechatIMG5.jpeg)
