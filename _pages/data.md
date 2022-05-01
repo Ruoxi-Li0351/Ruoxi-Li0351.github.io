@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations，Workshops and Conferences"
+title: "Presentations, Workshops and Conferences"
 permalink: /data/
 author_profile: true
 ---
