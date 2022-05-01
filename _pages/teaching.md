@@ -9,7 +9,7 @@ I have teached various of undergraduate level math courses and below is the list
 
 
 
-### Teaching Assistant (@ UPITT)
+### Teaching Assistant (@ UPitt)
 
 <!-- #### MIT -->
 
@@ -19,7 +19,7 @@ Analytic Geometry & Calculus 2, 2021
 
 Business Calculus, 2020, 2021
 
-### Grader (@ UPITT)
+### Grader (@ UPitt)
 
 Finite Mathematics, 2021
 
