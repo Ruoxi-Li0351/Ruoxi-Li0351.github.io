@@ -9,19 +9,13 @@ main:
  - title: "Curriculum Vitae"
     url: /cv/
     
-  - title: "Teaching"
+ - title: "Teaching"
     url: /teaching/
     
-  - title: "About My Cats"
+ - title: "About My Cats"
     url: /sam/   
  
-
- 
-    
-
- 
-    
-  # - title: "Data"
+ # - title: "Data"
   #   url: /data/
   
  
