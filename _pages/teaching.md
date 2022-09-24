@@ -8,18 +8,21 @@ author_profile: true
 I have teached various of undergraduate level math courses and below is the list.
 
 
-
 ### Teaching Assistant (@ UPitt)
 
 <!-- #### MIT -->
 
 Analytic Geometry & Calculus 1, 2021, 2022
 
-Analytic Geometry & Calculus 2, 2021
+Analytic Geometry & Calculus 2, 2021, 2022
 
 Business Calculus, 2020, 2021
 
 ### Grader (@ UPitt)
+
+Applied Elementary Number Theory, 2022
+
+Combinatorial Mathematics, 2022
 
 Finite Mathematics, 2021
 
