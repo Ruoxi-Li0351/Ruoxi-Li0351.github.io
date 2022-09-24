@@ -13,12 +13,13 @@ Moduli of Vector Bundles, Online Seminar by students, July-November 2020
 Algebraic groups, MATH 3550 Lie groups and Lie algebras, Jan 22nd, 2020
 
 ### Workshops and Conferences
+Workshop on "Moduli, motives, and bundles - New trends in algebraic geometry", Oaxaca, Mexico (hybrid), September 19-23rd, 2022
 
-Derived Categories, Moduli Spaces, and Hyperkahler Varieties, University of Michigan, July 30-August 5, 2022 (will attend)
+Derived Categories, Moduli Spaces, and Hyperkahler Varieties, University of Michigan, July 30-August 5th, 2022
 
-GAeL (Geometrie Algebrique en Liberte) XXVIII, online, July 5-9, 2021
+GAeL (Geometrie Algebrique en Liberte) XXVIII, online, July 5-9th, 2021
 
-Special Month on Singularities and K-Stability, online, May 17- June 11th, 2021
+Special Month on Singularities and K-Stability, online, May 17-June 11th, 2021
 
 Overview of Springer theory, online, June 8-12th, 2020
 
