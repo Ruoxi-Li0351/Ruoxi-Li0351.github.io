@@ -10,7 +10,7 @@ TBC
 
 <!-- Summary: I examine whether mispricing drives investors to consume accounting information. I find that mutual fund flow-induced mispricing increases the consumption of accounting information, especially among sophisticated investors. In addition, I find that information consumption following mutual fund fire sales predicts both the extent to which prices return to pre-fire sale levels as well as the speed of return reversals. These findings suggest that mispricing increases the demand for fundamental information contained in accounting reports and highlight the role of accounting information in the path of price discovery for mispriced firms. -->
 
-*Available upon request*
+<!-- *Available upon request* -->
 <!-- 
 <a href="https://drive.google.com/file/d/1PRcn4yPFmbgGK4WDT11AgoF1TSsQNvfK/view?usp=sharing" target="_blank">View in Browser</a> -->
 
