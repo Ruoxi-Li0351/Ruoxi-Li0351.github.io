@@ -12,8 +12,7 @@ My name is Ruoxi and I'm a fourth-year math PhD student at the University of Pit
 
 My research focuses on algebraic geometry, especially Fourier-Mukai transform and moduli stack.
 
-Useful Links:
-
+Useful Links:  
 <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>  
 <a href="https://people.math.harvard.edu/~gaitsgde/GLOH_2020/"> Geometric Langlands Seminar </a>  
 <a href="http://www.cshpm.org"> CSHPM/SCHPM </a>
