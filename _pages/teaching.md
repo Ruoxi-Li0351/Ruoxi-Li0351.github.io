@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have teached various of undergraduate level math courses and below is the list.
+I have taught various of undergraduate level math courses and below is the list.
 
 
 ### Teaching Assistant (@ UPitt)
