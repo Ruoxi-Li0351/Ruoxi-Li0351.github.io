@@ -14,8 +14,8 @@ My research focuses on algebraic geometry, especially Fourier-Mukai transform an
 
 Useful Links:
 
-<a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>
-<a href="https://people.math.harvard.edu/~gaitsgde/GLOH_2020/"> Geometric Langlands Seminar </a>
+<a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>  
+<a href="https://people.math.harvard.edu/~gaitsgde/GLOH_2020/"> Geometric Langlands Seminar </a>  
 <a href="http://www.cshpm.org"> CSHPM/SCHPM </a>
 
 
