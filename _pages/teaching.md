@@ -18,6 +18,8 @@ Analytic Geometry & Calculus 2, 2021, 2022
 
 Business Calculus, 2020, 2021
 
+Intro Theoretical Mathematics, 2021
+
 ### Grader (@ UPitt)
 
 Applied Elementary Number Theory, 2022
@@ -25,7 +27,5 @@ Applied Elementary Number Theory, 2022
 Combinatorial Mathematics, 2022
 
 Finite Mathematics, 2021
-
-Intro Theoretical Mathematics, 2021
 
 Partial Differential Equations 1, 2021
