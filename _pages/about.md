@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Ruoxi Li's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
