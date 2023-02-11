@@ -37,6 +37,8 @@ Explicit Computations with Stacks, New York, USA, June 4-10, 2023
 
 Higher structures in Enumerative Geometry, Paris, France, June 12-16, 2023
 
+Derived Categories, Moduli Spaces, and Counting Invariants, London, UK, July 3-7, 2023 
+
 Intersection Theory on Moduli Spaces, Providence, USA, July 11-14, 2023
 
 Enumerative geometry, quantisation and moduli spaces, Cetraro, Italy, September 4-8, 2023
