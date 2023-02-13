@@ -33,6 +33,10 @@ Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
 
+Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
+
+Hall algebras and vertex algebras in enumerative geometry, Isle of Skye, UK, April 17-21, 2023
+
 Explicit Computations with Stacks, New York, USA, June 4-10, 2023
 
 Higher structures in Enumerative Geometry, Paris, France, June 12-16, 2023
