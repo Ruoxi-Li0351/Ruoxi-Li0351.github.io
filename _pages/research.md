@@ -5,8 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently working on Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections.
-<!-- Summary: I examine whether mispricing drives investors to consume accounting information. I find that mutual fund flow-induced mispricing increases the consumption of accounting information, especially among sophisticated investors. In addition, I find that information consumption following mutual fund fire sales predicts both the extent to which prices return to pre-fire sale levels as well as the speed of return reversals. These findings suggest that mispricing increases the demand for fundamental information contained in accounting reports and highlight the role of accounting information in the path of price discovery for mispriced firms. -->
+I am currently working on motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections.
+
+### Workshops and Conferences in the Future (I will attend)
+
+Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
+
+Hall algebras and vertex algebras in enumerative geometry, Isle of Skye, UK, April 17-21, 2023
+
+Explicit Computations with Stacks, New York, USA, June 4-10, 2023
+
+Derived Categories, Moduli Spaces, and Counting Invariants, London, UK, July 3-7, 2023 
+
+2023 WARTHOG workshop on the topic of "Categorified Coulomb branches", Eugene, USA, July 10-14, 2023
 
 <!-- *Available upon request* -->
 <!-- 
