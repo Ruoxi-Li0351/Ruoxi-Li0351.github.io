@@ -11,10 +11,6 @@ I am currently working on motivic classes of stacks in finite characteristic and
 
 Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
 
-Hall algebras and vertex algebras in enumerative geometry, Isle of Skye, UK, April 17-21, 2023
-
-Explicit Computations with Stacks, New York, USA, June 4-10, 2023
-
 Derived Categories, Moduli Spaces, and Counting Invariants, London, UK, July 3-7, 2023 
 
 2023 WARTHOG workshop on the topic of "Categorified Coulomb branches", Eugene, USA, July 10-14, 2023
