@@ -15,6 +15,8 @@ Algebraic groups, MATH 3550 Lie groups and Lie algebras, Jan 22nd, 2020
 
 ### Workshops and Conferences
 
+Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
+
 Moduli, motives, and bundles - New trends in algebraic geometry, Oaxaca, Mexico (hybrid), September 19-23rd, 2022
 
 Derived Categories, Moduli Spaces, and Hyperkahler Varieties, Ann Arbor, USA, July 30-August 5th, 2022
@@ -32,8 +34,6 @@ Warwick virtual M2 Workshop, online, June 1-5th, 2020
 Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
-
-Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
 
 Derived Categories, Moduli Spaces, and Counting Invariants, London, UK, July 3-7, 2023 
 
