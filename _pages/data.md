@@ -35,10 +35,6 @@ Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
 
-Derived Categories, Moduli Spaces, and Counting Invariants, London, UK, July 3-7, 2023 
-
 2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14, 2023
 
-Enumerative geometry, quantisation and moduli spaces, Cetraro, Italy, September 4-8, 2023
-
-Moduli stacks and enumerative geometry, Cambridge, UK, June 17-21, 2024
+Conference CAVARET : "Curves, Abelian VArieties and RElated Topic", Barcelona, Spain, June 17-21, 2024
