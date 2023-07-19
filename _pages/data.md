@@ -15,6 +15,8 @@ Algebraic groups, MATH 3550 Lie groups and Lie algebras, Jan 22nd, 2020
 
 ### Workshops and Conferences
 
+2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14, 2023
+
 Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
 
 Moduli, motives, and bundles - New trends in algebraic geometry, Oaxaca, Mexico (hybrid), September 19-23rd, 2022
@@ -34,7 +36,5 @@ Warwick virtual M2 Workshop, online, June 1-5th, 2020
 Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
-
-2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14, 2023
 
 Conference CAVARET : "Curves, Abelian VArieties and RElated Topic", Barcelona, Spain, June 17-21, 2024
