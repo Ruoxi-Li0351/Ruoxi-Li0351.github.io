@@ -26,9 +26,9 @@ Intro Theoretical Mathematics, 2021
 
 ### Grader (@ UPitt)
 
-Applied Elementary Number Theory, 2022
+Applied Elementary Number Theory, 2022, 2023
 
-Combinatorial Mathematics, 2022
+Combinatorial Mathematics, 2022, 2023
 
 Finite Mathematics, 2021
 
