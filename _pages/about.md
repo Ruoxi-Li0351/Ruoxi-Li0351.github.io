@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoxi and I'm a fourth-year math PhD student at the University of Pittsburgh. Before that, I received my bachelor's degree from Nankai University and master's degree from UIUC.
+My name is Ruoxi and I'm a fifth-year math PhD student at the University of Pittsburgh. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
 
-My research focuses on algebraic geometry, especially Fourier-Mukai transform and moduli stack.
+My research focuses on algebraic geometry, especially motivic classes of moduli stacks.
 
 Useful Links:  
 <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>  
