@@ -1,16 +1,17 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/
+
+  - title: "Research"
+    url: /research/
 
   - title: "Curriculum Vitae"
     url: /cv/
     
-  - title: "Research"
-    url: /research/
-
   - title: "Presentations, Workshops and Conferences"
     url: /data/
+
+  - title: "Teaching"
+    url: /teaching/
     
   # - title: "Data"
   #   url: /data/
