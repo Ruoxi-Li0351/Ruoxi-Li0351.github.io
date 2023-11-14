@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{{ git_page_last_updated }}
+Last updated: Sep 24th, 2022
 {% include base_path %}
 
 
