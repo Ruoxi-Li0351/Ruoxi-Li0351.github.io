@@ -9,7 +9,7 @@ I am currently working on motivic classes of stacks in finite characteristic and
 
 Note:
 
-<a href="[https://drive.google.com/file/d/19rSIixBPdpPalsrPTFwuaQnf96ntGHG8/view?usp=drive_link]" target="_blank">Moduli space of generalized line bundles of reducible curves</a>
+<a href="https://drive.google.com/file/d/19rSIixBPdpPalsrPTFwuaQnf96ntGHG8/view?usp=drive_link" target="_blank">Moduli space of generalized line bundles of reducible curves</a>
 
 ### Workshops and Conferences in the Future (I will attend)
 
