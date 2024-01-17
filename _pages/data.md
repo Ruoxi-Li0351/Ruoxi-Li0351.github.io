@@ -37,4 +37,6 @@ Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
 
-Conference CAVARET : "Curves, Abelian VArieties and RElated Topic", Barcelona, Spain, June 17-21, 2024
+Motives in Mainz, Mainz, Germany, March 18-22nd, 2024
+
+2nd Simons Math Summer Workshop: Moduli, July 1-19th, 2024
