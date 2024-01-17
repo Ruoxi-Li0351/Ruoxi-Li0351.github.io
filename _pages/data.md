@@ -15,9 +15,9 @@ Algebraic groups, MATH 3550 Lie groups and Lie algebras, Jan 22nd, 2020
 
 ### Workshops and Conferences
 
-2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14, 2023
+2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14th, 2023
 
-Categorical methods in moduli theory, Philadelphia, USA, April 7-9, 2023
+Categorical methods in moduli theory, Philadelphia, USA, April 7-9th, 2023
 
 Moduli, motives, and bundles - New trends in algebraic geometry, Oaxaca, Mexico (hybrid), September 19-23rd, 2022
 
