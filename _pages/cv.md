@@ -10,7 +10,7 @@ Last updated: Sep 24th, 2022
 {% include base_path %}
 
 
-<a href="https://drive.google.com/file/d/1NXe2x26sziS0l61_w_tu52cugNXGrVLb/view?usp=sharing" target="_blank">View in browser</a>
+<a href="/files/CV.pdf" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
