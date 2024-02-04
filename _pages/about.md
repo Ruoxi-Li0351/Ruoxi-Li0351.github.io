@@ -15,7 +15,7 @@ My research focuses on algebraic geometry, especially motivic classes of moduli 
 Useful Links:  
 <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>  
 <a href="https://conference-service.com/conferences/mathematics.html"> Conferences in Mathematics</a>  
-<a href="https://people.math.harvard.edu/~gaitsgde/GLOH_2020/"> Geometric Langlands Seminar </a>  
+<a href="https://people.mpim-bonn.mpg.de/gaitsgde/GLOH_2020/"> Geometric Langlands Seminar </a>  
 <a href="http://www.cshpm.org"> CSHPM/SCHPM </a>
 
 
