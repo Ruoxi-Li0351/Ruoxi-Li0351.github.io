@@ -13,6 +13,7 @@ Note:
 
 ### Workshops and Conferences in the Future (I will attend)
 
+2nd Simons Math Summer Workshop: Moduli, July 1-19th, 2024
 
 <!-- *Available upon request* -->
 <!-- 
