@@ -8,7 +8,7 @@ author_profile: true
 I have taught various undergraduate level math courses and below is the list.
 ### University of Pittsburgh 2019-present
 ### Teaching Assistant 
-Business Calculus (MATH 0120) Fall 2020, 2021
+Business Calculus (MATH 0120), Fall 2020, 2021
 
 Analytic Geometry & Calculus 1 (MATH 0220), Spring 2021, 2022, 2024
 
