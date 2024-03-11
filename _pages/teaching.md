@@ -12,7 +12,7 @@ Business Calculus (MATH 0120) Fall 2020, 2021
 
 Analytic Geometry & Calculus 1 (MATH 0220) Spring 2021, 2022, 2024
 
-Analytic Geometry & Calculus 2 (MATH 0230)Spring 2021, Summer 2021, Fall 2021, 2022
+Analytic Geometry & Calculus 2 (MATH 0230) Spring 2021, Summer 2021, Fall 2021, 2022
 
 Intro Theoretical Mathematics (MATH 0413) Summer 2021, 2024
 
