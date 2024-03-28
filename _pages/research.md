@@ -13,6 +13,8 @@ Note:
 
 ### Workshops and Conferences in the Future (I will attend)
 
+GTA: Philadelphia 2024, May 31-June 2nd, 2024
+
 2nd Simons Math Summer Workshop: Moduli, July 1-19th, 2024
 
 <!-- *Available upon request* -->
