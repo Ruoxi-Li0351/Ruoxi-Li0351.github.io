@@ -36,5 +36,3 @@ Warwick virtual M2 Workshop, online, June 1-5th, 2020
 Geometry and Dynamics of Foliations, online, May 25-28th, 2020
 
 ### Workshops and Conferences in the Future (I might attend)
-
-2nd Simons Math Summer Workshop: Moduli, July 1-19th, 2024
