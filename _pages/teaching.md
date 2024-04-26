@@ -14,7 +14,7 @@ Analytic Geometry & Calculus 1 (MATH 0220), Spring 2021, 2022, 2024
 
 Analytic Geometry & Calculus 2 (MATH 0230), Spring 2021, Summer 2021, Fall 2021, 2022
 
-Intro Theoretical Mathematics (MATH 0413), Summer 2021, 2024
+Intro Theoretical Mathematics (MATH 0413), Summer 2021
 
 Intro Theory 1-Variable Calculus (MATH 0420), Spring 2023
 
