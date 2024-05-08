@@ -19,6 +19,7 @@ Useful Links:
 <a href="http://www.cshpm.org"> CSHPM/SCHPM </a>
 
 TRIVIA: there are at least two more Ruoxis working in algebraic geometry:
+
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li in UIUC</a>  
 <a href="https://math.berkeley.edu/people/ruoxi-li"> Ruoxi Li in UC Berkeley</a>  
 
