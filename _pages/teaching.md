@@ -7,6 +7,8 @@ author_profile: true
 
 I have taught various undergraduate level math courses and below is the list.
 ### University of Pittsburgh 2019-present
+### Lecturer
+Differential Equations (MATH 0290), Summer 2024
 ### Teaching Assistant 
 Business Calculus (MATH 0120), Fall 2020, 2021
 
