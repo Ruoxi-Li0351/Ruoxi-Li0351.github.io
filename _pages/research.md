@@ -13,8 +13,6 @@ Note:
 
 ### Workshops and Conferences in the Future (I will attend)
 
-GTA: Philadelphia 2024, May 31-June 2nd, 2024
-
 Richmond Geometry Meeting, Richmond, VA, August 12-14, 2024
 
 <!-- *Available upon request* -->
