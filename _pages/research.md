@@ -12,8 +12,9 @@ Note:
 <a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">Moduli space of generalized line bundles of reducible curves</a>
 
 ### Workshops and Conferences in the Future (I will attend)
-
+https://math.vcu.edu/rgm/
 Richmond Geometry Meeting, Richmond, VA, August 12-14, 2024
+<a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting, Richmond, VA, August 12-14, 2024</a>
 
 <!-- *Available upon request* -->
 <!-- 
