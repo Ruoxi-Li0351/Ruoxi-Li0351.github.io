@@ -11,6 +11,14 @@ Motivic classes of stacks in finite characteristic and applications to stacks of
 
 Moduli of Vector Bundles, Online Seminar by students, July-November, 2020 
 
+### Workshops and Conferences in the Future (I might attend)
+
+<a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series" target="_blank">Algebraic Geometry Northeastern Series, at Dartmouth College, Hanover, NH, November 8-10th, 2024</a>
+
+<a href="https://sites.google.com/a/wagsymposium.org/current/" target="_blank">Western Algebraic Geometry Symposium, at the University of Arizona, Tucson, AZ, November 16-17th, 2024</a>
+
+<a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium, at the University of Georgia, Athens, Georgia, March 21-23rd, 2025</a>
+
 ### Workshops and Conferences
 
 <a href="https://pages.uoregon.edu/belias/WARTHOG/CoulCat/index.html" target="_blank">2023 WARTHOG workshop on the topic of “Categorified Coulomb branches”, Eugene, USA, July 10-14th, 2023</a>
@@ -33,6 +41,3 @@ GAeL (Geometrie Algebrique en Liberte) XXVIII, online, July 5-9th, 2021</a>
 <a href="https://sites.google.com/view/warwick-m2-workshop/home" target="_blank">Warwick virtual M2 Workshop, online, June 1-5th, 2020</a>
 
 <a href="https://www.cirm-math.com/geometry-and-dynamics-of-foliations.html" target="_blank">Geometry and Dynamics of Foliations, online, May 25-28th, 2020</a>
-
-
-### Workshops and Conferences in the Future (I might attend)
