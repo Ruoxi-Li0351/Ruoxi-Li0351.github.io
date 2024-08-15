@@ -5,13 +5,11 @@ permalink: /data/
 author_profile: true
 ---
 
-### Presentations
+### Talks and Presentations
 
-Riemann-Roch for Riemann Surfaces and Number Fields, MATH 2245 Algebraic Number Theory, April 30th, 2021
+Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting, Richmond, VA, August 12-14, 2024</a>
 
 Moduli of Vector Bundles, Online Seminar by students, July-November, 2020 
-
-Algebraic groups, MATH 3550 Lie groups and Lie algebras, Jan 22nd, 2020
 
 ### Workshops and Conferences
 
