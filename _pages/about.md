@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoxi and I'm a fifth-year math PhD student at the University of Pittsburgh. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
+My name is Ruoxi and I'm a fifth-year math PhD student at the University of Pittsburgh, working under <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Dr. Roman Fedorov</a>. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
 
 My research focuses on algebraic geometry, especially motivic classes of moduli stacks. I am currently interested in Serre polynomials of character varieties.
 
