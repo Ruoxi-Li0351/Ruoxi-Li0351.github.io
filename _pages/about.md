@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be on the job market this fall.
+-I will be on the job market this fall.
 
-I'm a sixth-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Roman Fedorov</a>. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
+-I'm a sixth-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Roman Fedorov</a>. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
 
-My research focuses on algebraic geometry, especially motivic classes of moduli stacks. I am currently interested in Serre polynomials of character varieties and motives of moduli stacks.
+-My research focuses on algebraic geometry, especially motivic classes of moduli stacks. I am currently interested in Serre polynomials of character varieties and motives of moduli stacks.
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
