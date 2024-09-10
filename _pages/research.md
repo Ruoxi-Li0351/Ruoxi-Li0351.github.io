@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Ruoxi Li. (in prep.) Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections. 
+1. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections. In Preparation.
+2. (with Rahul Singh) Motivic classes of character varieties and character stacks. In Progress.
 
-Note:
-
-<a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">Moduli space of generalized line bundles of reducible curves</a>
 
 ### Workshops and Conferences in the Future (I will attend)
 
