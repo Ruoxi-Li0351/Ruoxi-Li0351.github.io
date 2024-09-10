@@ -7,7 +7,7 @@ author_profile: true
 
 ### Talks and Presentations
 
-Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections (Poster), <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting</a>, Richmond, VA, August 12-14, 2024
+Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting</a>, Richmond, VA, August 12-14, 2024. Poster Session.
 
 Moduli of Vector Bundles, Online Seminar by students, July-November, 2020 
 
