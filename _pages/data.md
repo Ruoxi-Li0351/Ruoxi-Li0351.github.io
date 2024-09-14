@@ -19,4 +19,4 @@ Moduli of Vector Bundles, Online Seminar by students, July-November, 2020
 
 <a href="https://sites.google.com/a/wagsymposium.org/current/ua-fall-2024" target="_blank">Western Algebraic Geometry Symposium</a>, at the University of Arizona, Tucson, AZ, November 16-17th, 2024
 
-<a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, Georgia, March 21-23rd, 2025
+<a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025
