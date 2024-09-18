@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Last updated: March 11th, 2024
+Last updated: September 18th, 2024
 {% include base_path %}
 
 
