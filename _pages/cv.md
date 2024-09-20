@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Last updated: September 18th, 2024
+Last updated: September 19th, 2024
 {% include base_path %}
 
 
-<a href="/files/CV-240918.pdf" target="_blank">View in browser</a>
+<a href="/files/CV-240919.pdf" target="_blank">View in browser</a>
 
 <!-- ## Dissertation Committee
 
@@ -37,7 +37,7 @@ MIT Sloan School of Management<br>
 <embed src="https://github.com/MexicaneCola/MexicaneCola.github.io/blob/main/files/CV.pdf" type="application/pdf">
  -->
 
-<object data="/files/CV-240918.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/CV-240919.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
