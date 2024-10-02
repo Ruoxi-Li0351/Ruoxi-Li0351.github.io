@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 1. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections. In Preparation.
-2. (with Rahul Singh) Motivic classes of character varieties and character stacks. In Progress.
+2. (with Rahul Singh) Explicit formulae of mixed Hodge polynomials for character varieties of free abelian groups. In Preparation.
+3. (with Rahul Singh) Motivic classes of character varieties and character stacks. In Progress.
 
 
 ### Workshops and Conferences in the Future (I will attend)
