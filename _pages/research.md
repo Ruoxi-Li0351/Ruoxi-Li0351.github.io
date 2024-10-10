@@ -9,9 +9,6 @@ author_profile: true
 2. (with Rahul Singh) Explicit formulae of mixed Hodge polynomials for character varieties of free abelian groups. In Preparation.
 3. (with Rahul Singh) Motivic classes of character varieties and character stacks. In Progress.
 
-
-### Workshops and Conferences in the Future (I will attend)
-
 <!-- *Available upon request* -->
 <!-- 
 <a href="https://drive.google.com/file/d/1PRcn4yPFmbgGK4WDT11AgoF1TSsQNvfK/view?usp=sharing" target="_blank">View in Browser</a> -->
