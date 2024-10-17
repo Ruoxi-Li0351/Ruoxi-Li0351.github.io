@@ -26,3 +26,5 @@ Moduli of Vector Bundles, Online Seminar by students, July-November, 2020.
 <a href="https://sites.google.com/site/agneshomepage/dartmouth-2024" target="_blank">Algebraic Geometry Northeastern Series</a>, at Dartmouth College, Hanover, NH, November 8-10th, 2024.
 
 <a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025.
+
+<a href="https://sites.google.com/view/agbootcamp2025/home?authuser=0" target="_blank">Bootcamp for the 2025 Summer Research Institute in Algebraic Geometry</a>, at Colorado State University, Fort Collins, CO, July 8-12nd, 2025.
