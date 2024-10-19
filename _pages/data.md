@@ -7,6 +7,8 @@ author_profile: true
 
 ### Talks and Presentations
 
+Motivic classes of varieties and stacks with applications to Higgs bundles Part II, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-0" target="_blank">Graduate Student Seminar</a>, Pittsburgh, PA, Novermber 22th, 2024.
+
 Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-0" target="_blank">Graduate Student Seminar</a>, Pittsburgh, PA, October 18th, 2024.
 
 Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles" target="_blank">Algebraic Groups and the Geometric Langlands Program Seminar</a>, Pittsburgh, PA, September 24th, 2024.
