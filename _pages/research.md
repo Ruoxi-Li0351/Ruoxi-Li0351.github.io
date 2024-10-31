@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-1. Explicit formulas for mixed Hodge polynomials of character varieties of free abelian groups, with Rahul Singh, <a href="https://arxiv.org/abs/2410.10008" target="_blank">arXiv: 2410.10008</a>.
+1. Explicit formulas for mixed Hodge polynomials of character varieties of free abelian groups, <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">with Rahul Singh</a>, <a href="https://arxiv.org/abs/2410.10008" target="_blank">arXiv: 2410.10008</a>.
 2. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections. In Preparation.
-3. Motivic classes of character varieties and character stacks, with Rahul Singh. In Progress.
+3. Motivic classes of character varieties and character stacks, <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">with Rahul Singh</a>. In Progress.
 
 <!-- *Available upon request* -->
 <!-- 
