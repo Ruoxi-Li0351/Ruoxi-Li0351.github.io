@@ -9,7 +9,7 @@ redirect_from:
 ---
 - I will be on the job market this fall.
 
-- I'm a sixth-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Prof. Roman Fedorov</a>. Before that, I received my bachelor's degree from Nankai University and master's degree from University of Illinois Urbana-Champaign.
+- I'm a sixth-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Prof. Roman Fedorov</a>. Before that, I received my master's degree from University of Illinois Urbana-Champaign and bachelor's degree from Nankai University.
 
 - My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli spaces and moduli stacks of Higgs bundles and bundles with connections. Recently, I am also interested in character varieties.
 
