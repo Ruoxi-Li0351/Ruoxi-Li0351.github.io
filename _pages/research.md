@@ -7,12 +7,12 @@ author_profile: true
 
 ### Explicit formulas for mixed Hodge polynomials of character varieties of free abelian groups
 ##### With <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>, <a href="https://arxiv.org/abs/2410.10008" target="_blank">arXiv: 2410.10008</a>.
-
-2. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections. In Preparation.
-Let $X$ be a smooth projective curve over a field of finite characteristic. We calculate the motivic classes of the moduli stack of semistable Higgs bundles and bundles with connections on $X$.
-
-We follow the strategy of Fedorov and Soibelmans for motivic classes in characteristic zero. The main new ingredient is a version of Hua's formula relating the motivic classes of bundles with endomorphisms to the motivic classes of geometrically indecomposable bundles with endomorphisms.
-4. Motivic classes of character varieties and character stacks, with <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>. In Progress.
+Let $\Hom^0(\Gamma,G)$ be the path-connected component of the identity representation of the variety of representations of a finitely generated nilpotent group $\Gamma$ into a connected reductive complex affine algebraic group $G$. With the formulas given by Florentino, Lawton and Silva, we provide explicit partition type formulas for the mixed Hodge polynomials of character varieties $\Hom^0(\Gamma,G)\sslash G$ when $G=Sp_{2n}$ and $G=SO_{n}$.
+### Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections 
+##### In Preparation.
+Let $X$ be a smooth projective curve over a field of finite characteristic. We calculate the motivic classes of the moduli stack of semistable Higgs bundles and bundles with connections on $X$. We follow the strategy of Fedorov and Soibelmans for motivic classes in characteristic zero. The main new ingredient is a version of Hua's formula relating the motivic classes of bundles with endomorphisms to the motivic classes of geometrically indecomposable bundles with endomorphisms.
+### Motivic classes of character varieties and character stacks
+##### With <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>. In Progress.
 
 <!-- *Available upon request* -->
 <!-- 
