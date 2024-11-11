@@ -14,7 +14,7 @@ author_profile: true
 
 3. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://sites.google.com/binghamton.edu/bugcat-website/home" target="_blank">BUGCAT Conference</a>, Binghamton, NY, October 26-27th, 2024. 20 mins Talk. <a href="/files/Motivic classes_Binghamton.pdf" target="_blank">Slides</a>.
 
-4. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-0" target="_blank">Graduate Student Seminar</a>, Pittsburgh, PA, October 18th, 2024. <a href="/files/Motivic classes_pitt.pdf" target="_blank">Slides</a>.
+4. Motivic classes of varieties and stacks with applications to Higgs bundles Part I, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-0" target="_blank">Graduate Student Seminar</a>, Pittsburgh, PA, October 18th, 2024. <a href="/files/Motivic classes_pitt.pdf" target="_blank">Slides</a>.
 
 5. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles" target="_blank">Algebraic Groups and the Geometric Langlands Program Seminar</a>, Pittsburgh, PA, September 24th, 2024. <a href="/files/Motivic classes_pitt.pdf" target="_blank">Slides</a>.
 
