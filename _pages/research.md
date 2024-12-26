@@ -14,7 +14,7 @@ Let $X$ be a smooth projective curve over a field of finite characteristic. We c
 ## 3. Motivic classes of character varieties and character stacks
 ### With <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>. In Progress.
 
-Useful Links:  
+## Useful Links:  
 
 1. <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>
 2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions from Angela Gibney </a> 
