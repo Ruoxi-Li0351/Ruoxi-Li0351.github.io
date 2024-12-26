@@ -6,11 +6,13 @@ author_profile: true
 ---
 ### Conferences in the Future (I might attend)
 
-1. <a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025.
+1. <a href="https://sites.google.com/view/derivedfrg/events/columbia-2025" target="_blank">Hyperkahler Varieties, Derived Categories, and Moduli Spaces</a>, at Columbia University, New York, NY, February 7-9th, 2025.
 
-2. <a href="https://sites.google.com/view/agbootcamp2025/home?authuser=0" target="_blank">Bootcamp for the 2025 Summer Research Institute in Algebraic Geometry</a>, at Colorado State University, Fort Collins, CO, July 8-12nd, 2025.
+2. <a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025.
 
-3. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8th, 2025.
+3. <a href="https://sites.google.com/view/agbootcamp2025/home?authuser=0" target="_blank">Bootcamp for the 2025 Summer Research Institute in Algebraic Geometry</a>, at Colorado State University, Fort Collins, CO, July 8-12nd, 2025.
+
+4. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8th, 2025.
 
 ### Talks and Presentations
 
