@@ -11,7 +11,7 @@ Let $\text{Hom}^0(\Gamma,G)$ be the path-connected component of the identity rep
 ## 2. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections
 ### In Preparation. <a href="/files/Poster_AGNES.pdf" target="_blank">Poster</a>/<a href="/files/Motivic classes_pitt.pdf" target="_blank">Slides</a> 
 Let $X$ be a smooth projective curve over a field of finite characteristic. We calculate the motivic classes of the moduli stack of semistable Higgs bundles and bundles with connections on $X$. We follow the strategy of Fedorov and Soibelmans for motivic classes in characteristic zero. The main new ingredient is a version of Hua's formula relating the motivic classes of bundles with endomorphisms to the motivic classes of geometrically indecomposable bundles with endomorphisms.
-## 3. Motivic classes of character varieties and character stacks
+## 3. Motives of moduli spaces of stable quiver representations
 ### With <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>. In Progress.
 
 ## Useful Links:  
