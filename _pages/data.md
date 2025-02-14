@@ -4,6 +4,10 @@ title: "Presentations and Conferences"
 permalink: /data/
 author_profile: true
 ---
+### Talks in the Future
+
+1. <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">The Arithmetic Seminar</a>, at Binghamton University, Binghamton, NY, March 4th, 2025.
+
 ### Conferences in the Future (I might attend)
 
 1. <a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025.
