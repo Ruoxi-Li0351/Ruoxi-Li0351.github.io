@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Talks in the Future
 
-1. <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">The Arithmetic Seminar</a>, at Binghamton University, Binghamton, NY, March 4th, 2025.
+1. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">The Arithmetic Seminar</a>, at Binghamton University, Binghamton, NY, March 4th, 2025.
 
 ### Conferences in the Future (I might attend)
 
