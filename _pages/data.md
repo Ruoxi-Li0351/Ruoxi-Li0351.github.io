@@ -6,16 +6,14 @@ author_profile: true
 ---
 ### Conferences in the Future (I might attend)
 
-1. <a href="https://sites.google.com/view/gags2025" target="_blank">Georgia Algebraic Geometry Symposium</a>, at the University of Georgia, Athens, GA, March 21-23rd, 2025.
-
-2. <a href="https://sites.google.com/view/markdecataldo60/home" target="_blank">Hodge Theory and Algebraic Geometry</a>, at the Simons Center for Geometry and Physics, Stony Brook, NY, May 27-29th, 2025.
+1. <a href="https://sites.google.com/view/markdecataldo60/home" target="_blank">Hodge Theory and Algebraic Geometry</a>, at the Simons Center for Geometry and Physics, Stony Brook, NY, May 27-29th, 2025.
 
 
-3. <a href="https://sites.google.com/view/agbootcamp2025/home?authuser=0" target="_blank">Bootcamp for the 2025 Summer Research Institute in Algebraic Geometry</a>, at Colorado State University, Fort Collins, CO, July 8-12nd, 2025.
+2. <a href="https://sites.google.com/view/agbootcamp2025/home?authuser=0" target="_blank">Bootcamp for the 2025 Summer Research Institute in Algebraic Geometry</a>, at Colorado State University, Fort Collins, CO, July 8-12nd, 2025.
 
-4. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25th, 2025.
+3. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25th, 2025.
 
-5. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8th, 2025.
+4. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8th, 2025.
 
 ### Talks and Presentations
 
