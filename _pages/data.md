@@ -19,7 +19,7 @@ author_profile: true
 
 ### Talks and Presentations
 
-1. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">Arithmetic Seminar</a>, Binghamton, NY, March 4th, 2025. <a href="/files/Motivic classes_pitt.pdf" target="_blank">Slides</a>.
+1. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">Arithmetic Seminar</a>, Binghamton, NY, March 4th, 2025. <a href="/files/Motivic classes_Binghamton talk.pdf" target="_blank">Slides</a>.
 
 2. Motivic classes of varieties and stacks with applications to Higgs bundles Part II, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-part-ii" target="_blank">Graduate Student Seminar</a>, Pittsburgh, PA, Novermber 22nd, 2024.
 
@@ -33,6 +33,6 @@ author_profile: true
 
 7. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles" target="_blank">Algebraic Groups and the Geometric Langlands Program Seminar</a>, Pittsburgh, PA, September 24th, 2024.
 
-8. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting</a>, Richmond, VA, August 12-14th, 2024. Poster Session. <a href="/files/Poster_RGM.pdf" target="_blank">Poster</a>.
+8. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting</a>, Richmond, VA, August 12-14th, 2024. Poster Session.
 
 9. Moduli of Vector Bundles, Online Seminar by students, July-November, 2020.
