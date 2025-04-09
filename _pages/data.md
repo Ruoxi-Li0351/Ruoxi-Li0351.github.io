@@ -10,7 +10,7 @@ author_profile: true
 
 2. <a href="https://cst.temple.edu/department-mathematics/events/gcsagt" target="_blank">GTA: Philadelphia 2025</a>, at Temple University, Philadelphia, PA, May 30th-June 1st, 2025.
 
-3. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25th, 2025.
+3. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25th, 2025. 5 mins Talk.
 
 4. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8th, 2025.
 
