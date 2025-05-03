@@ -8,7 +8,7 @@ author_profile: true
 
 1. <a href="https://sites.google.com/view/markdecataldo60/home" target="_blank">Hodge Theory and Algebraic Geometry</a>, at the Simons Center for Geometry and Physics, Stony Brook, NY, May 27-29th, 2025.
 
-2. <a href="https://cst.temple.edu/department-mathematics/events/gcsagt" target="_blank">GTA: Philadelphia 2025</a>, at Temple University, Philadelphia, PA, May 30th-June 1st, 2025.
+2. <a href="https://cst.temple.edu/department-mathematics/events/gcsagt" target="_blank">GTA: Philadelphia 2025</a>, at Temple University, Philadelphia, PA, May 30th-June 1st, 2025. 30 mins Talk.
 
 3. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25th, 2025. 5 mins Talk.
 
