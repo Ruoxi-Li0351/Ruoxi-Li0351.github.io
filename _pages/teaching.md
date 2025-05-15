@@ -10,7 +10,7 @@ I have taught various undergraduate level math courses and below is the list.
 ### Lecturer
 Differential Equations (MATH 0290), Summer 2024
 ### Teaching Assistant 
-Business Calculus (MATH 0120), Fall 2020, 2021
+Business Calculus (MATH 0120), Fall 2020, 2021, Summer 2025
 
 Analytic Geometry & Calculus 1 (MATH 0220), Spring 2021, 2022, 2024
 
