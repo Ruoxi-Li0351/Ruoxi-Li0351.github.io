@@ -29,7 +29,7 @@ III. <a href="/files/Geometric Langlands Program Seminar 3.pdf" target="_blank">
 
 3. <a href="/files/Introduction to stacks.pdf" target="_blank">Hand written notes</a> on the online seminar by students, including Rahul Singh and me. (Reference: <a href="https://www.cimat.mx/~luis/seminarios/Pilas-algebraicas/neumann-Stacks.pdf" target="_blank">Algebraic stacks and moduli of vector bundles</a>)
 
-### Useful Links:  
+### Useful Links
 
 1. <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>
 2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions from Angela Gibney </a> 
