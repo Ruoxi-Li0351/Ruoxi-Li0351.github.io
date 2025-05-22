@@ -16,7 +16,7 @@ author_profile: true
 
 1. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a> by Olivier Schiffmann.
 
-2. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Mmduli of quiver representations
+2. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
 and vector bundles over curves</a> by Victoria Hoskins.
 
 3. <a href="https://arxiv.org/pdf/2302.14499" target="_blank">Moduli spaces and geometric invariant theory: old and new perspectives</a> by Victoria Hoskins.
