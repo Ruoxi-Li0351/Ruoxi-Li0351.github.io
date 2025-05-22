@@ -4,32 +4,23 @@ title: "Talks"
 permalink: /data/
 author_profile: true
 ---
-### Conferences in the Future (I might attend)
+### Surveys Related to Moduli Theory (Strongly Recommend)
 
-1. <a href="https://sites.google.com/view/markdecataldo60/home" target="_blank">Hodge Theory and Algebraic Geometry</a>, at the Simons Center for Geometry and Physics, Stony Brook, NY, May 27-29, 2025.
+1. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a> by Olivier Schiffmann.
 
-2. <a href="https://cst.temple.edu/department-mathematics/events/gcsagt" target="_blank">GTA: Philadelphia 2025</a>, at Temple University, Philadelphia, PA, May 30-June 1, 2025. 30 mins Talk.
+2. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Mmduli of quiver representations
+and vector bundles over curves</a> by Victoria Hoskins.
 
-3. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a> Week 2, at Colorado State University, Fort Collins, CO, July 21-25, 2025. 5 mins Talk.
+2. <a href="https://arxiv.org/pdf/2302.14499" target="_blank">Moduli spaces and geometric invariant theory: old and new perspectives</a> by Victoria Hoskins.
 
-4. <a href="https://workshop.cimpa.ucr.ac.cr/index.php" target="_blank">Workshop on Character Varieties and Higgs Bundles</a>, at Universidad de Costa Rica, Costa Rica, August 4-8, 2025.
+4. <a href="https://arxiv.org/pdf/2302.01871" target="_blank">A guide to moduli theory beyond GIT</a> by Tom\'as L. G\'omez, Andres Fern\'andez Herrero, and Alfonso Zamora.
 
-### Talks
+### Notes
 
-1. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www2.math.binghamton.edu/p/seminars/arit" target="_blank">Arithmetic Seminar</a>, Binghamton University, March 4, 2025. <a href="/files/Motivic classes_Binghamton talk.pdf" target="_blank">Slides</a>.
+1. Hand written notes on the talks of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Prof. Roman Fedorov</a> at <a href="https://www.mathematics.pitt.edu/content/algebraic-groups-and-geometric-langlands-program" target="_blank">Algebraic Groups and the Geometric Langlands Program Seminar</a>.
+<a href="/files/Geometric Langlands Program Seminar 1.pdf" target="_blank">Hitchin systems, torsors and Grothendieck-Serre conjecture</a> (2024 Spring)
+<a href="/files/Geometric Langlands Program Seminar 2.pdf" target="_blank">Stacks, connections and D-modules</a> (2024 Fall)
+<a href="/files/Geometric Langlands Program Seminar 3.pdf" target="_blank">Rank 2 ramified geometric langlands</a> (2025 Spring)
 
-2. Motivic classes of varieties and stacks with applications to Higgs bundles Part II, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-part-ii" target="_blank">Graduate Student Seminar</a>, the University of Pittsburgh, Novermber 22, 2024.
-
-3. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://sites.google.com/a/wagsymposium.org/current/ua-fall-2024" target="_blank">Western Algebraic Geometry Symposium</a>, the University of Arizona, November 16-17, 2024. Poster Session. <a href="/files/Poster_AGNES.pdf" target="_blank">Poster</a>.
-
-4. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://sites.google.com/site/agneshomepage/dartmouth-2024" target="_blank">Algebraic Geometry Northeastern Series</a>, Dartmouth College, November 8-10, 2024. Poster Session.
-
-5. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://sites.google.com/binghamton.edu/bugcat-website/home" target="_blank">BUGCAT Conference</a>, Binghamton University, October 26-27, 2024. 20 mins Talk.
-
-6. Motivic classes of varieties and stacks with applications to Higgs bundles Part I, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles-0" target="_blank">Graduate Student Seminar</a>, the University of Pittsburgh, October 18, 2024.
-
-7. Motivic classes of varieties and stacks with applications to Higgs bundles, <a href="https://www.mathematics.pitt.edu/content/motivic-classes-varieties-and-stacks-applications-higgs-bundles" target="_blank">Algebraic Groups and the Geometric Langlands Program Seminar</a>, the University of Pittsburgh, September 24, 2024.
-
-8. Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles and bundles with connections, <a href="https://math.vcu.edu/rgm/" target="_blank">Richmond Geometry Meeting</a>, Virginia Commonwealth University, August 12-14, 2024. Poster Session.
-
-9. Moduli of Vector Bundles, Online Seminar by students, July-November, 2020.
+2. Hand written notes on the online seminar by students, including <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a> and I. (Reference: <a href="https://www.cimat.mx/~luis/seminarios/Pilas-algebraicas/neumann-Stacks.pdf" target="_blank">Algebraic stacks and moduli of vector bundles</a>)
+<a href="/files/Introduction to stacks.pdf" target="_blank">Introduction to Stacks</a> 
