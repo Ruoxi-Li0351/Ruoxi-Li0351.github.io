@@ -7,7 +7,7 @@ author_profile: true
 ### Useful Links
 
 1. <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>
-2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions from Angela Gibney </a> 
+2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions curated by Angela Gibney </a> 
 3. <a href="https://mathmeetings.net/ag-ct-rt"> Mathmeetings</a>  
 4. <a href="https://conference-service.com/conferences/mathematics.html"> Conferences in Mathematics</a>  
 5. <a href="https://researchseminars.org"> Research Seminars </a>
