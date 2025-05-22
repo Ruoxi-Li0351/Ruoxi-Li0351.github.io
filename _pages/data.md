@@ -36,7 +36,7 @@ and vector bundles over curves</a> by Victoria Hoskins.
     </ul>
   </li>
   <li>
-    <a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">Moduli space of generalized line bundles</a>
+    <a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">Moduli space of generalized line bundles</a>.
   </li>
   <li>
     <a href="/files/Introduction to stacks.pdf" target="_blank">Moduli of vector bundles</a> on the online seminar by students, including Rahul Singh and me. (Reference: 
