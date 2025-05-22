@@ -13,7 +13,7 @@ and vector bundles over curves</a> by Victoria Hoskins.
 
 2. <a href="https://arxiv.org/pdf/2302.14499" target="_blank">Moduli spaces and geometric invariant theory: old and new perspectives</a> by Victoria Hoskins.
 
-4. <a href="https://arxiv.org/pdf/2302.01871" target="_blank">A guide to moduli theory beyond GIT</a> by Tomás L. Gómez, Andres Fernández Herrero, and Alfonso Zamora.
+4. <a href="https://arxiv.org/pdf/2302.01871" target="_blank">A guide to moduli theory beyond GIT</a> by Tomás L. Gómez, Andres Fernández Herrero and Alfonso Zamora.
 
 ### Notes
 
