@@ -36,10 +36,10 @@ and vector bundles over curves</a> by Victoria Hoskins.
     </ul>
   </li>
   <li>
-    <a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">This note</a> is a summary for several papers about moduli space of generalized line bundles.
+    <a href="/files/Moduli space of generalized line bundles of reducible curves.pdf" target="_blank">Moduli space of generalized line bundles</a>
   </li>
   <li>
-    <a href="/files/Introduction to stacks.pdf" target="_blank">Hand written notes</a> on the online seminar by students, including Rahul Singh and me. (Reference: 
+    <a href="/files/Introduction to stacks.pdf" target="_blank">Moduli of vector bundles</a> on the online seminar by students, including Rahul Singh and me. (Reference: 
     <a href="https://www.cimat.mx/~luis/seminarios/Pilas-algebraicas/neumann-Stacks.pdf" target="_blank">Algebraic stacks and moduli of vector bundles</a>)
   </li>
 </ol>
