@@ -14,13 +14,6 @@ Let $X$ be a smooth projective curve over a field of finite characteristic. We c
 ## 3. Motives of moduli spaces of stable quiver representations
 ### With <a href="https://www.maths.tcd.ie/~mozgovoy/index.html" target="_blank">Sergey Mozgovoy</a>, <a href="https://math.ruhr-uni-bochum.de/fakultaet/arbeitsbereiche/algebra/research-team-reineke/team/prof-dr-markus-reineke/" target="_blank">Markus Reineke</a> and <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>. In Progress.
 
-## Useful Links:  
-
-1. <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences (and courses) in algebraic geometry</a>
-2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions from Angela Gibney </a> 
-3. <a href="https://mathmeetings.net/ag-ct-rt"> Mathmeetings</a>  
-4. <a href="https://conference-service.com/conferences/mathematics.html"> Conferences in Mathematics</a>  
-5. <a href="https://researchseminars.org"> Research Seminars </a>
 <!-- *Available upon request* -->
 <!-- 
 <a href="https://drive.google.com/file/d/1PRcn4yPFmbgGK4WDT11AgoF1TSsQNvfK/view?usp=sharing" target="_blank">View in Browser</a> -->
