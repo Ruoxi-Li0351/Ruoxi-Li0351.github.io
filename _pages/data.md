@@ -12,7 +12,7 @@ author_profile: true
 4. <a href="https://conference-service.com/conferences/mathematics.html"> Conferences in Mathematics</a>  
 5. <a href="https://researchseminars.org"> Research Seminars </a>
 
-### Surveys on Moduli Theory (Strongly Recommended)
+### Surveys on Moduli Theory (Highly Recommended)
 
 1. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a> by Olivier Schiffmann.
 
