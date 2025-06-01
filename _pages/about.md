@@ -15,9 +15,9 @@ redirect_from:
 
 ### Upcoming Travel:
 
-1. <a href="https://cst.temple.edu/department-mathematics/events/gcsagt" target="_blank">GTA: Philadelphia 2025</a>, May 30-June 1.
-
-2. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a>, July 21-25.
+1. <a href="https://sites.google.com/view/2025summerinstitute/home/week-2-july-21-25" target="_blank">2025 Summer Research Institute in Algebraic Geometry</a>, July 21-25.
+  
+2. <a href="https://workshop.cimpa.ucr.ac.cr" target="_blank">Character varieties and Higgs bundles</a>, August 4-8.
    
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
