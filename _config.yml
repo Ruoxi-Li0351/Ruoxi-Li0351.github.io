@@ -18,6 +18,7 @@ url                      : https://Ruoxi-Li0351.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ruoxi-Li0351.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# logo                     : "favicon.ico"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
