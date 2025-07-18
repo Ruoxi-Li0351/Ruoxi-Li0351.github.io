@@ -43,3 +43,7 @@ and vector bundles over curves</a> by Victoria Hoskins.
     <a href="https://www.cimat.mx/~luis/seminarios/Pilas-algebraicas/neumann-Stacks.pdf" target="_blank">Algebraic stacks and moduli of vector bundles</a>)
   </li>
 </ol>
+
+### Protential Conferences
+
+1. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
