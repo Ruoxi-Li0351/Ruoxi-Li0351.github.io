@@ -16,8 +16,6 @@ redirect_from:
 ### Upcoming Travel:
 
 1. <a href="https://workshop.cimpa.ucr.ac.cr" target="_blank">Character varieties and Higgs bundles</a>, August 4-8. Poster Session.
-
-2. <a href="https://aimath.org/workshops/upcoming/wallcrossing/" target="_blank">Wall-crossing: techniques and applications</a>, September 15-19.
    
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
