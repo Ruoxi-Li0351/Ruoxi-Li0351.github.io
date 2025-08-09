@@ -46,4 +46,6 @@ and vector bundles over curves</a> by Victoria Hoskins.
 
 ### Potential Conferences
 
-1. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
+1. <a href="https://geometryvcu.github.io/rgm2025/" target="_blank">Richmond Geometry Meeting</a>, September 19-21, 2025.
+
+2. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
