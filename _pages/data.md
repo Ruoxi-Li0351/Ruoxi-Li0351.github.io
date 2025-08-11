@@ -10,30 +10,12 @@ author_profile: true
 2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions curated by Angela Gibney </a> 
 3. <a href="https://researchseminars.org"> Research Seminars </a>
 
-### Moduli Theory References
-
-#### Higgs bundles and bundles with connections
-1. O. Schiffmann. <a href="https://arxiv.org/pdf/1406.3839" target="_blank">Indecomposable vector bundles and stable Higgs bundles over smooth projective curves</a>.
-2. O. Schiffmann. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a>.
-3. V. Hoskins. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
+### Moduli Theory References (Highly Recommended)
+1. O. Schiffmann. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a>.
+2. V. Hoskins. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
 and vector bundles over curves</a>.
-4. S. Mozgovoy and O. Schiffmann. <a href="https://arxiv.org/pdf/1705.04849" target="_blank">Counting Higgs bundles and type A quiver bundles</a>.
-5. R. Fedorov, A. Soibelman, and Y. Soibelman. <a href="https://arxiv.org/pdf/1705.04890" target="_blank">Motivic classes of moduli of Higgs bundles and moduli of bundles with connections</a>.
-6. R. Fedorov, A. Soibelman, and Y. Soibelman. <a href="https://arxiv.org/pdf/1910.12348" target="_blank">Motivic Donaldson-Thomas Invariants of Parabolic Higgs Bundles and Parabolic Connections on a Curve</a>.
-7. R. Fedorov, A. Soibelman, and Y. Soibelman. <a href="https://arxiv.org/pdf/2404.14549" target="_blank">Motivic classes of irregular Higgs bundles and irregular connections on a curve</a>.
-8. F. Sala and O. Schiffmann. <a href="https://arxiv.org/pdf/1801.03482" target="_blank">Cohomological Hall algebra of Higgs sheaves on a curve</a>.
-9. V. Hoskins and S. Pepin Lehalleur. <a href="https://arxiv.org/pdf/1910.04440" target="_blank">On the Voevodsky motive of the moduli space of Higgs bundles on a curve</a>.
-
-#### Quiver Representations
-1. M. Brion. <a href="https://cel.hal.science/cel-00440026v1/document" target="_blank">Representations of quivers</a>.
-2. M. Reineke. <a href="https://arxiv.org/pdf/0802.2147" target="_blank">Moduli of Representations of Quivers</a>.
-3. O. Schiffmann. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a>.
-4. V. Hoskins. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
-and vector bundles over curves</a>.
-5. O. Schiffmann and E. Vasserot.  <a href="https://arxiv.org/pdf/1705.07491" target="_blank">On cohomological Hall algebras of quivers : Yangians</a>.
-6. O. Schiffmann and E. Vasserot. <a href="https://arxiv.org/pdf/1705.07488" target="_blank">On cohomological Hall algebras of quivers : generators</a>.
-7. O. Schiffmann and E. Vasserot. <a href="https://arxiv.org/pdf/2312.15803" target="_blank">Cohomological Hall algebras of quivers and Yangians</a>.
-
+3. A. Zamora.  <a href="https://blogs.upm.es/azamorasaiz/wp-content/uploads/sites/894/2025/08/Costa_Rica___Workshop_on_Character_Varieties_and_Higgs_Bundles.pdf" target="_blank">$e$-polynomials of character varieties</a>.
+4. C. Florentino, A. Nozad, J.Silva and A. Zamora. <a href="https://arxiv.org/pdf/1402.6923" target="_blank">On Hodge polynomials of Singular Character Varieties</a>.
 
 <!-- ### Notes
 
