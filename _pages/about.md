@@ -11,7 +11,7 @@ redirect_from:
 
 - I'm a sixth-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Prof. Roman Fedorov</a>. Before that, I received my master's degree from the University of Illinois Urbana-Champaign and bachelor's degree from Nankai University.
 
-- My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections and character varieties. Recently, I am also interested in moduli spaces of quiver representations.
+- My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations.
 
 ### Upcoming Travel:
 
