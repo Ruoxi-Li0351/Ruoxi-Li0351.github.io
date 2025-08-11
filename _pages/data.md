@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Notes and References"
+title: "References"
 permalink: /data/
 author_profile: true
 ---
@@ -23,7 +23,7 @@ and vector bundles over curves</a> by Victoria Hoskins.
 
 4. <a href="https://arxiv.org/pdf/2302.01871" target="_blank">A guide to moduli theory beyond GIT</a> by Tomás L. Gómez, Andres Fernández Herrero and Alfonso Zamora.
 
-### Notes
+<!-- ### Notes
 
 <ol>
   <li>
@@ -43,6 +43,7 @@ and vector bundles over curves</a> by Victoria Hoskins.
     <a href="https://www.cimat.mx/~luis/seminarios/Pilas-algebraicas/neumann-Stacks.pdf" target="_blank">Algebraic stacks and moduli of vector bundles</a>)
   </li>
 </ol>
+-->
 
 ### Potential Conferences
 
