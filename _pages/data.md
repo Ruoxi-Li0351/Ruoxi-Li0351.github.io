@@ -10,8 +10,9 @@ author_profile: true
 2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions curated by Angela Gibney </a> 
 3. <a href="https://researchseminars.org"> Research Seminars </a>
 
-### Surveys on Moduli Theory (Highly Recommended)
+### Moduli Theory References (Highly Recommended)
 
+## Quiver Representation
 1. <a href="https://arxiv.org/pdf/1802.09760v1" target="_blank">Kac polynomials and Lie algebras associated to quivers and curves</a> by Olivier Schiffmann.
 
 2. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
