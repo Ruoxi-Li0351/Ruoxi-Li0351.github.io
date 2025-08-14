@@ -15,7 +15,7 @@ redirect_from:
 
 ### Upcoming Travel:
 
-1. <a href="https://geometryvcu.github.io/rgm2025/" target="_blank">Richmond Geometry Meeting</a>, September 19-21, 2025.
+1. <a href="https://geometryvcu.github.io/rgm2025/" target="_blank">Richmond Geometry Meeting</a>, September 19-21, 2025. Poster Session.
    
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
