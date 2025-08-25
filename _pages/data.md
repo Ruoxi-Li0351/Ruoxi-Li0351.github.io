@@ -39,6 +39,8 @@ and vector bundles over curves</a>.
 </ol>
 -->
 
-### Potential Conferences
+### Conferences in the Future
 
-1. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
+1. <a href="https://sites.google.com/binghamton.edu/bugcat-website/home" target="_blank">BUGCAT Conference</a>, November 15-16, 2025.
+2. <a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series?authuser=0" target="_blank">Algebraic Geometry Northeastern Series</a>, UMass Amherst, November 21-23, 2025. 
+3. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
