@@ -124,7 +124,12 @@ author:
   youtube          :
   wikipedia        :
   school           : 
-  arxiv            : "http://arxiv.org/a/li_r_8"
+  arxiv            : # ""
+
+links:
+    - label: "arXiv"
+      icon: "fas fa-file-alt"
+      url: "http://arxiv.org/a/li_r_8"
 
 # Reading Files
 include:
