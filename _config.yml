@@ -104,7 +104,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ruoxi-Li0351"
+  github           : # "Ruoxi-Li0351"
   google_plus      :
   keybase          :
   instagram        :
@@ -124,7 +124,7 @@ author:
   youtube          :
   wikipedia        :
   school           : 
-
+  arxiv            : "http://arxiv.org/a/li_r_8"
 
 # Reading Files
 include:
