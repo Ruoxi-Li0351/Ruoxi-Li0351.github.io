@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me: Ruoxi Li/李若曦"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
