@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
 You can find my papers on <a href="https://arxiv.org/a/li_r_8.html" target="_blank">arXiv</a>.
 ## 1. Explicit formulas for mixed Hodge polynomials of character varieties of nilpotent groups 
 ### With <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>, submitted. <a href="https://arxiv.org/abs/2410.10008" target="_blank">ArXiv: 2410.10008</a>.
