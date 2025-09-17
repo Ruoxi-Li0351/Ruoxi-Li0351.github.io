@@ -15,7 +15,7 @@ author_profile: true
 2. V. Hoskins. <a href="https://arxiv.org/pdf/1809.05738" target="_blank">Parallels between Moduli of quiver representations
 and vector bundles over curves</a>.
 3. A. Zamora.  <a href="https://blogs.upm.es/azamorasaiz/wp-content/uploads/sites/894/2025/08/Costa_Rica___Workshop_on_Character_Varieties_and_Higgs_Bundles.pdf" target="_blank">$e$-polynomials of character varieties</a>.
-4. C. Florentino, A. Nozad, J.Silva and A. Zamora. <a href="https://arxiv.org/pdf/1402.6923" target="_blank">On Hodge polynomials of Singular Character Varieties</a>.
+4. C. Florentino, A. Nozad, J. Silva and A. Zamora. <a href="https://arxiv.org/pdf/1402.6923" target="_blank">On Hodge polynomials of Singular Character Varieties</a>.
 
 <!-- ### Notes
 
