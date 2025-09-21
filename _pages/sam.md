@@ -7,4 +7,4 @@ author_profile: true
 
 <!--  -->
 <img src="/images/WechatIMG50.jpeg" width="900">
-<img src="/images/WechatIMG50.jpeg" width="450">
+<img src="/images/WechatIMG51.jpeg" width="450">
