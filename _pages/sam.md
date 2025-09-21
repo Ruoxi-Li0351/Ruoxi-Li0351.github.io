@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 <!--  -->
-<img src="/images/Chino2024-2.jpeg" width="900">
-<img src="/images/Mint2024.jpeg" width="500">
+<img src="/images/WechatIMG50.jpeg" width="900">
+<img src="/images/WechatIMG50.jpeg" width="450">
