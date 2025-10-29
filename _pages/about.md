@@ -15,7 +15,7 @@ redirect_from:
 
 ### Upcoming Event:
 
-1. <a href="https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html" target="_blank">M-Seminar</a>, online, November 6, 3:30pm. <a href="https://ksu.zoom.us/j/95834254862" target="_blank">Zoom link</a>
+1. <a href="https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html" target="_blank">M-Seminar</a>, Kansas State University, November 6, 3:30pm. <a href="https://ksu.zoom.us/j/95834254862" target="_blank">Zoom link</a>
 
 2. <a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series?authuser=0" target="_blank">Algebraic Geometry Northeastern Series</a>, UMass Amherst, November 21-23. 
 
