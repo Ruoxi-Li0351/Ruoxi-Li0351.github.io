@@ -10,9 +10,9 @@ Last updated: November 6th, 2025
 {% include base_path %}
 
 
-<a href="/files/CV251106.pdf" target="_blank">View in browser</a>
+<a href="/files/CV20251106.pdf" target="_blank">View in browser</a>
 
-<object data="/files/CV251106.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/CV20251106.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
