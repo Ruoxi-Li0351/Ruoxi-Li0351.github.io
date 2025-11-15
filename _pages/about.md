@@ -15,7 +15,7 @@ redirect_from:
 
 ### Upcoming Event:
 
-1. <a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series?authuser=0" target="_blank">Algebraic Geometry Northeastern Series</a>, UMass Amherst, November 21-23. 
+1. <a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series?authuser=0" target="_blank">Algebraic Geometry Northeastern Series</a>, UMass Amherst, November 21-23. Poster Session.
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://math.illinois.edu/directory/profile/ruoxil4"> Ruoxi Li at UIUC</a>  
