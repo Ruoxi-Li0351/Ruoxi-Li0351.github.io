@@ -6,13 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Last updated: November 24th, 2025
+Last updated: January 18th, 2026
 {% include base_path %}
 
 
-<a href="/files/CV20251124.pdf" target="_blank">View in browser</a>
+<a href="/files/CV20260118.pdf" target="_blank">View in browser</a>
 
-<object data="/files/CV20251124.pdf" type="application/pdf" width="500px" height="500px"></object>
+<object data="/files/CV20260118.pdf" type="application/pdf" width="500px" height="500px"></object>
 
 <!-- <object data="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1Ozx5GoYW8F_RxdKZ21ni9gkerSDIeU9q/view?usp=sharing">
