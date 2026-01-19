@@ -23,7 +23,7 @@ Intro Theory 1-Variable Calculus (MATH 0420), Spring 2023
 Intro Abstract Algebraic Systems (MATH 0430), Spring 2023, 2024
 ### Grader
 
-Differential Equations (MATH 0290), Fall 2024
+Differential Equations (MATH 0290), Fall 2024, Spring 2026
 
 Finite Mathematics (MATH 0400), Spring 2021
 
