@@ -40,5 +40,3 @@ and vector bundles over curves</a>.
 -->
 
 ### Conferences in the Future
-
-1. <a href="https://www.birs.ca/events/2026/5-day-workshops/26w5610" target="_blank">Geometry of Algebraic Stacks</a>, January 18-23, 2026.
