@@ -14,7 +14,7 @@ redirect_from:
 - My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations. Recently, I have also been interested in invariant D-modules.
 
 ### Upcoming Event:
-
+<a href="https://bimsa.net/activity/Topingeoreptheandenugeo/">Topics in geometric representation theory and enumerative geometry</a>, online, April 1-June 12, 2026 
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://math.illinois.edu/directory/profile/ruoxil4"> Ruoxi Li at UIUC</a>  
