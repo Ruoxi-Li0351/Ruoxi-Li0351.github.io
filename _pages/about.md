@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I will be a Math Fellow at the University of California, Riverside, starting in Fall 2026.
+- I will be a Math Fellow at the University of California, Riverside, working with <a href="https://sites.google.com/view/tomgannon/home">Tom Gannon</a>, starting in Fall 2026.
 
 - I'm a seventh-year math PhD student at the University of Pittsburgh, under the guidance of <a href="https://www.mathematics.pitt.edu/people/roman-fedorov"> Prof. Roman Fedorov</a>. Before that, I received my master's degree from the University of Illinois Urbana-Champaign and bachelor's degree from Nankai University.
 
