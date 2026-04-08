@@ -12,7 +12,9 @@ redirect_from:
 - I'm a seventh-year math PhD student at the University of Pittsburgh, under the guidance of Professor <a href="https://www.mathematics.pitt.edu/people/roman-fedorov">Roman Fedorov</a>. Before that, I received my master's degree from the University of Illinois Urbana-Champaign and bachelor's degree from Nankai University.
 
 ### Upcoming Event:
-<a href="https://bimsa.net/activity/Topingeoreptheandenugeo/">Topics in geometric representation theory and enumerative geometry</a>, online, April 15-June 12, 2026 
+1. <a href="https://bimsa.net/activity/Topingeoreptheandenugeo/">Topics in geometric representation theory and enumerative geometry</a>, online, April 15-June 12, 2026
+2. <a href="https://sites.google.com/site/agneshomepage/rutgers-2026?authuser=0">AGNES Rutgers 2026
+</a>, Rutgers University, USA, May 1-3, 2026.
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://math.illinois.edu/directory/profile/ruoxil4"> Ruoxi Li at UIUC</a>  
