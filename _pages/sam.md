@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Chino & Mint"
+title: "ManUtd"
 permalink: /sam/
 author_profile: true
 ---
+## Premier League Table
 
-<!--  -->
-<img src="/images/WechatIMG50.jpeg" width="900">
-<img src="/images/WechatIMG51.jpeg" width="450">
+[View current table on FotMob](https://www.fotmob.com/leagues/47/table/premier-league)
