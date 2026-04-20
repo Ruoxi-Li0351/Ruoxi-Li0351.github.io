@@ -1,9 +1,9 @@
 ---
 layout: archive
+title: Premier League Table
 permalink: /sam/
 author_profile: true
 ---
-## Premier League Table
 
 <!-- TABLE_START -->
 <table>
