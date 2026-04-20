@@ -1,0 +1,52 @@
+name: Update Premier League Table
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # runs once per day (UTC)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch Premier League standings
+        run: |
+          curl -s https://api-football-standings.azharimm.dev/leagues/eng.1/standings \
+          | jq -r '
+          .data.standings[0].table
+          | to_entries
+          | [
+              "| Rank | Team | Pts |",
+              "|------|------|-----|"
+            ] + 
+            (map("| \(.key+1) | \(.value.team.displayName) | \(.value.stats[] | select(.name=="points") | .value) |"))
+          | .[]
+          ' > table.md
+
+      - name: Inject table into page
+        run: |
+          awk '
+          /<!-- TABLE_START -->/ {
+            print;
+            system("cat table.md");
+            skip=1;
+            next
+          }
+          /<!-- TABLE_END -->/ {skip=0}
+          !skip
+          ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add _pages/sam.md
+          git commit -m "Update Premier League table" || echo "No changes"
+          git push
