@@ -18,11 +18,11 @@ jobs:
 
       - name: Fetch Premier League standings
         run: |
-          DATA=$(curl -s https://api-football-standings.azharimm.dev/leagues/eng.1/standings)
-          echo "$DATA" | jq . > /dev/null || exit 1
+          DATA=$(curl -fsSL https://api-football-standings.azharimm.site/leagues/eng.1/standings)
+          echo "$DATA" | jq . > /dev/null
 
           echo "$DATA" | jq -r '
-            .data.standings[0].table
+            .data.standings
             | to_entries
             | [
                 "| Rank | Team | Pts |",
