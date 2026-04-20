@@ -19,14 +19,19 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch Premier League standings
+      - name: Fetch Premier League standings and build table
+        shell: bash
         run: |
+          set -euo pipefail
+
           DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
           echo "$DATA" | jq . > /dev/null
 
+          manu_rank=""
+
           {
             echo '<style>'
-            echo '.pl-table-wrap{margin:1rem 0;border-radius:12px;border:1px solid #e5e7eb;}'
+            echo '.pl-table-wrap{margin:1rem 0;border-radius:12px;border:1px solid #e5e7eb;background:#fff;}'
             echo '.pl-table{border-collapse:separate;border-spacing:0;width:100%;font-size:14px;background:#fff;}'
             echo '.pl-table th,.pl-table td{padding:8px 10px;text-align:center;border-bottom:1px solid #e5e7eb;white-space:nowrap;}'
             echo '.pl-table thead th{background:#111827;color:#fff;font-weight:600;}'
@@ -39,7 +44,14 @@ jobs:
             echo '.pl-table tr.rel td:first-child{border-left:4px solid #dc2626;}'
             echo '.pl-rank{font-weight:600;}'
             echo '.pl-pts{font-weight:700;}'
-            echo '.pl-note{margin-top:8px;color:#6b7280;font-size:13px;}'
+            echo '.pl-legend{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px;font-size:13px;color:#4b5563;}'
+            echo '.pl-key{display:inline-flex;align-items:center;gap:6px;}'
+            echo '.pl-dot{display:inline-block;width:10px;height:10px;border-radius:9999px;}'
+            echo '.pl-dot-ucl{background:#16a34a;}'
+            echo '.pl-dot-uel{background:#1d4ed8;}'
+            echo '.pl-dot-uecl{background:#60a5fa;}'
+            echo '.pl-dot-rel{background:#dc2626;}'
+            echo '.pl-dot-mid{background:#9ca3af;}'
             echo '</style>'
 
             echo '<div class="pl-table-wrap">'
@@ -47,21 +59,7 @@ jobs:
             echo '<thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>PTS</th></tr></thead>'
             echo '<tbody>'
 
-            echo "$DATA" | jq -r '
-              .tables[0].entries
-              | to_entries[]
-              | [
-                  (.key + 1),
-                  .value.team.name,
-                  (.value.overall.played // 0),
-                  (.value.overall.won // 0),
-                  (.value.overall.drawn // 0),
-                  (.value.overall.lost // 0),
-                  ((.value.overall.goalsFor // 0) - (.value.overall.goalsAgainst // 0)),
-                  (((.value.overall.won // 0) * 3) + (.value.overall.drawn // 0))
-                ] | @tsv
-            ' | while IFS=$'\t' read -r rank team played won drawn lost gd pts; do
-
+            while IFS=$'\t' read -r rank team played won drawn lost gd pts; do
               row_class=""
               if [ "$rank" -le 5 ]; then
                 row_class="ucl"
@@ -73,21 +71,66 @@ jobs:
                 row_class="rel"
               fi
 
-              # capture Manchester United rank
               if [ "$team" = "Manchester United" ]; then
-                manu_rank=$rank
+                manu_rank="$rank"
               fi
 
               echo "<tr class=\"$row_class\"><td class=\"pl-rank\">$rank</td><td class=\"team\">$team</td><td>$played</td><td>$won</td><td>$drawn</td><td>$lost</td><td>$gd</td><td class=\"pl-pts\">$pts</td></tr>"
-            done
+            done < <(
+              echo "$DATA" | jq -r '
+                .tables[0].entries
+                | to_entries[]
+                | [
+                    (.key + 1),
+                    .value.team.name,
+                    (.value.overall.played // 0),
+                    (.value.overall.won // 0),
+                    (.value.overall.drawn // 0),
+                    (.value.overall.lost // 0),
+                    ((.value.overall.goalsFor // 0) - (.value.overall.goalsAgainst // 0)),
+                    (((.value.overall.won // 0) * 3) + (.value.overall.drawn // 0))
+                  ] | @tsv
+              '
+            )
 
             echo '</tbody></table>'
 
-            # 👇 dynamic sentence
-            echo "<p class=\"pl-note\">As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>$manu_rank</b> in the Premier League.</p>"
+            echo '<div class="pl-legend">'
+            echo '<span class="pl-key"><span class="pl-dot pl-dot-ucl"></span>UEFA Champions League</span>'
+            echo '<span class="pl-key"><span class="pl-dot pl-dot-uel"></span>UEFA Europa League</span>'
+            echo '<span class="pl-key"><span class="pl-dot pl-dot-uecl"></span>UEFA Conference League qualifiers</span>'
+            echo '<span class="pl-key"><span class="pl-dot pl-dot-rel"></span>Relegation</span>'
+            echo '<span class="pl-key"><span class="pl-dot pl-dot-mid"></span>Other</span>'
+            echo '</div>'
 
             echo '</div>'
           } > table.html
+
+          if [ -z "$manu_rank" ]; then
+            echo "Could not find Manchester United in standings."
+            exit 1
+          fi
+
+          cat > manu_note.html <<EOF
+          <p>As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>${manu_rank}</b> in the Premier League.</p>
+          EOF
+
+      - name: Inject Manchester United note into page
+        run: |
+          awk '
+          /<!-- MANU_NOTE_START -->/ {
+            print
+            system("cat manu_note.html")
+            skip=1
+            next
+          }
+          /<!-- MANU_NOTE_END -->/ {
+            skip=0
+            print
+            next
+          }
+          !skip
+          ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
 
       - name: Inject table into page
         run: |
@@ -98,9 +141,13 @@ jobs:
             skip=1
             next
           }
-          /<!-- TABLE_END -->/ {skip=0}
+          /<!-- TABLE_END -->/ {
+            skip=0
+            print
+            next
+          }
           !skip
-          ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
+          ' _pages/sam.md > tmp2.md && mv tmp2.md _pages/sam.md
 
       - name: Commit changes
         run: |
