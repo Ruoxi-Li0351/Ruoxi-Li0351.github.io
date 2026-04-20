@@ -5,6 +5,9 @@ on:
     - cron: "0 12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -19,7 +22,6 @@ jobs:
       - name: Fetch Premier League standings
         run: |
           DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
-
           echo "$DATA" | jq . > /dev/null
 
           echo "$DATA" | jq -r '
@@ -41,16 +43,14 @@ jobs:
             skip=1
             next
           }
-          /<!-- TABLE_END -->/ {
-            skip=0
-          }
+          /<!-- TABLE_END -->/ {skip=0}
           !skip
           ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _pages/sam.md
           git commit -m "Update Premier League table" || echo "No changes"
           git push
