@@ -21,6 +21,7 @@ author_profile: true
 .pl-table tr.rel td:first-child{border-left:4px solid #dc2626;}
 .pl-rank{font-weight:600;}
 .pl-pts{font-weight:700;}
+.pl-note{margin-top:8px;color:#6b7280;font-size:13px;}
 </style>
 <div class="pl-table-wrap">
 <table class="pl-table">
@@ -46,5 +47,7 @@ author_profile: true
 <tr class="rel"><td class="pl-rank">18</td><td class="team">Tottenham Hotspur</td><td>33</td><td>7</td><td>10</td><td>16</td><td>-11</td><td class="pl-pts">31</td></tr>
 <tr class="rel"><td class="pl-rank">19</td><td class="team">Burnley</td><td>33</td><td>4</td><td>8</td><td>21</td><td>-33</td><td class="pl-pts">20</td></tr>
 <tr class="rel"><td class="pl-rank">20</td><td class="team">Wolverhampton Wanderers</td><td>33</td><td>3</td><td>8</td><td>22</td><td>-37</td><td class="pl-pts">17</td></tr>
-</tbody></table></div>
+</tbody></table>
+<p class="pl-note">As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b></b> in the Premier League.</p>
+</div>
 <!-- TABLE_END -->
