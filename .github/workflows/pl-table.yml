@@ -33,20 +33,17 @@ jobs:
             echo '.pl-table td.team,.pl-table th.team{text-align:left;}'
             echo '.pl-table tr:nth-child(even){background:#f9fafb;}'
             echo '.pl-table tr:hover{background:#eef2ff;}'
-
-            # 🎨 FotMob-like colors
             echo '.pl-table .ucl{border-left:4px solid #16a34a;}'
             echo '.pl-table .uel{border-left:4px solid #1d4ed8;}'
             echo '.pl-table .uecl{border-left:4px solid #60a5fa;}'
             echo '.pl-table .rel{border-left:4px solid #dc2626;}'
-
             echo '.pl-rank{font-weight:600;}'
             echo '.pl-pts{font-weight:700;}'
             echo '</style>'
 
             echo '<div class="pl-table-wrap">'
             echo '<table class="pl-table">'
-            echo '<thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>GD</th><th>Pts</th></tr></thead>'
+            echo '<thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>PTS</th></tr></thead>'
             echo '<tbody>'
 
             echo "$DATA" | jq -r '
@@ -55,19 +52,16 @@ jobs:
               | [
                   (.key + 1),
                   .value.team.name,
-                  (.value.overall.played // ""),
-                  (.value.overall.won // ""),
-                  (.value.overall.drawn // ""),
-                  (.value.overall.lost // ""),
-                  (.value.overall.goalsFor // ""),
-                  (.value.overall.goalsAgainst // ""),
-                  (.value.overall.goalDifference // ""),
-                  (.value.overall.points // "")
+                  (.value.overall.played // 0),
+                  (.value.overall.won // 0),
+                  (.value.overall.drawn // 0),
+                  (.value.overall.lost // 0),
+                  ((.value.overall.goalsFor // 0) - (.value.overall.goalsAgainst // 0)),
+                  (((.value.overall.won // 0) * 3) + (.value.overall.drawn // 0))
                 ] | @tsv
-            ' | while IFS=$'\t' read -r rank team played won drawn lost gf ga gd pts; do
+            ' | while IFS=$'\t' read -r rank team played won drawn lost gd pts; do
 
               row_class=""
-
               if [ "$rank" -le 5 ]; then
                 row_class="ucl"
               elif [ "$rank" -eq 6 ]; then
@@ -78,7 +72,7 @@ jobs:
                 row_class="rel"
               fi
 
-              echo "<tr class=\"$row_class\"><td class=\"pl-rank\">$rank</td><td class=\"team\">$team</td><td>$played</td><td>$won</td><td>$drawn</td><td>$lost</td><td>$gf</td><td>$ga</td><td>$gd</td><td class=\"pl-pts\">$pts</td></tr>"
+              echo "<tr class=\"$row_class\"><td class=\"pl-rank\">$rank</td><td class=\"team\">$team</td><td>$played</td><td>$won</td><td>$drawn</td><td>$lost</td><td>$gd</td><td class=\"pl-pts\">$pts</td></tr>"
             done
 
             echo '</tbody></table></div>'
