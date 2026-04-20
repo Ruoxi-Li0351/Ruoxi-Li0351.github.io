@@ -18,17 +18,17 @@ jobs:
 
       - name: Fetch Premier League standings
         run: |
-          DATA=$(curl -fsSL https://api-football-standings.azharimm.site/leagues/eng.1/standings)
+          DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
+
           echo "$DATA" | jq . > /dev/null
 
           echo "$DATA" | jq -r '
-            .data.standings
-            | to_entries
+            .tables[0].entries
             | [
                 "| Rank | Team | Pts |",
                 "|------|------|-----|"
               ] +
-              (map("| \(.key+1) | \(.value.team.displayName) | \(.value.stats[] | select(.name=="points") | .value) |"))
+              (map("| \(.position) | \(.team.name) | \(.overall.points) |"))
             | .[]
           ' > table.md
 
@@ -36,12 +36,14 @@ jobs:
         run: |
           awk '
           /<!-- TABLE_START -->/ {
-            print;
-            system("cat table.md");
-            skip=1;
+            print
+            system("cat table.md")
+            skip=1
             next
           }
-          /<!-- TABLE_END -->/ {skip=0}
+          /<!-- TABLE_END -->/ {
+            skip=0
+          }
           !skip
           ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
 
