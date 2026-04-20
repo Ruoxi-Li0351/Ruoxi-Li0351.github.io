@@ -1,5 +1,8 @@
 name: Update Premier League Table
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: "0 12 * * *"
@@ -11,23 +14,25 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4   # ✅ updated
+        uses: actions/checkout@v4
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Fetch Premier League standings
         run: |
-          curl -s https://api-football-standings.azharimm.dev/leagues/eng.1/standings \
-          | jq -r '
-          .data.standings[0].table
-          | to_entries
-          | [
-              "| Rank | Team | Pts |",
-              "|------|------|-----|"
-            ] + 
-            (map("| \(.key+1) | \(.value.team.displayName) | \(.value.stats[] | select(.name=="points") | .value) |"))
-          | .[]
+          DATA=$(curl -s https://api-football-standings.azharimm.dev/leagues/eng.1/standings)
+          echo "$DATA" | jq . > /dev/null || exit 1
+
+          echo "$DATA" | jq -r '
+            .data.standings[0].table
+            | to_entries
+            | [
+                "| Rank | Team | Pts |",
+                "|------|------|-----|"
+              ] +
+              (map("| \(.key+1) | \(.value.team.displayName) | \(.value.stats[] | select(.name=="points") | .value) |"))
+            | .[]
           ' > table.md
 
       - name: Inject table into page
