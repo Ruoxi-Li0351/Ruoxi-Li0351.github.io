@@ -16,5 +16,5 @@ main:
   # - title: "Data"
   #   url: /data/
   
-  - title: "About My Cats"
-    url: /sam/
+  #- title: "About My Cats"
+  #  url: /sam/
