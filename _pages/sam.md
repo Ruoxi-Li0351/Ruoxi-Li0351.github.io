@@ -7,17 +7,17 @@ author_profile: true
 
 <!-- TABLE_START -->
 <style>
-.pl-table-wrap{overflow-x:auto;max-height:75vh;margin:1rem 0;border-radius:12px;border:1px solid #e5e7eb;}
+.pl-table-wrap{margin:1rem 0;border-radius:12px;border:1px solid #e5e7eb;}
 .pl-table{border-collapse:separate;border-spacing:0;width:100%;font-size:14px;background:#fff;}
 .pl-table th,.pl-table td{padding:8px 10px;text-align:center;border-bottom:1px solid #e5e7eb;white-space:nowrap;}
-.pl-table thead th{background:#111827;color:#fff;font-weight:600;position:sticky;top:0;z-index:2;}
+.pl-table thead th{background:#111827;color:#fff;font-weight:600;}
 .pl-table td.team,.pl-table th.team{text-align:left;}
 .pl-table tr:nth-child(even){background:#f9fafb;}
 .pl-table tr:hover{background:#eef2ff;}
-.pl-table .ucl{border-left:4px solid #16a34a;}
-.pl-table .uel{border-left:4px solid #1d4ed8;}
-.pl-table .uecl{border-left:4px solid #60a5fa;}
-.pl-table .rel{border-left:4px solid #dc2626;}
+.pl-table tr.ucl td:first-child{border-left:4px solid #16a34a;}
+.pl-table tr.uel td:first-child{border-left:4px solid #1d4ed8;}
+.pl-table tr.uecl td:first-child{border-left:4px solid #60a5fa;}
+.pl-table tr.rel td:first-child{border-left:4px solid #dc2626;}
 .pl-rank{font-weight:600;}
 .pl-pts{font-weight:700;}
 </style>
