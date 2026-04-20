@@ -24,22 +24,25 @@ jobs:
           DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
           echo "$DATA" | jq . > /dev/null
 
-          echo "$DATA" | jq -r '
-            .tables[0].entries
-            | [
-                "| Rank | Team | Pts |",
-                "|------|------|-----|"
-              ] +
-              (map("| \(.position) | \(.team.name) | \(.overall.points) |"))
-            | .[]
-          ' > table.md
+          {
+            echo '<table>'
+            echo '  <thead><tr><th>Rank</th><th>Team</th><th>Pts</th></tr></thead>'
+            echo '  <tbody>'
+            echo "$DATA" | jq -r '
+              .tables[0].entries
+              | to_entries[]
+              | "    <tr><td>\(.key + 1)</td><td>\(.value.team.name)</td><td>\(.value.overall.points)</td></tr>"
+            '
+            echo '  </tbody>'
+            echo '</table>'
+          } > table.html
 
       - name: Inject table into page
         run: |
           awk '
           /<!-- TABLE_START -->/ {
             print
-            system("cat table.md")
+            system("cat table.html")
             skip=1
             next
           }
