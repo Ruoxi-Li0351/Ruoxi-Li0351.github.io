@@ -1,7 +1,5 @@
 name: Update Premier League Table
 
-env:
-
 on:
   schedule:
     - cron: "0 12 * * *"
