@@ -22,7 +22,7 @@ jobs:
       - name: Fetch Premier League standings and build page
         shell: bash
         run: |
-          set -euo pipefail
+          set -e
 
           DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
           echo "$DATA" | jq . > /dev/null
@@ -38,18 +38,14 @@ jobs:
             echo '.pl-table td.team,.pl-table th.team{text-align:left;}'
             echo '.pl-table tr:nth-child(even){background:#f9fafb;}'
             echo '.pl-table tr:hover{background:#eef2ff;}'
-
             echo '.pl-table tr.ucl td:first-child{border-left:4px solid #16a34a;}'
             echo '.pl-table tr.uel td:first-child{border-left:4px solid #1d4ed8;}'
             echo '.pl-table tr.uecl td:first-child{border-left:4px solid #60a5fa;}'
             echo '.pl-table tr.rel td:first-child{border-left:4px solid #dc2626;}'
-
             echo '.pl-table tr.highlight{background:#fef2f2 !important;}'
             echo '.pl-table tr.highlight td.team{font-weight:700;}'
-
             echo '.pl-rank{font-weight:600;}'
             echo '.pl-pts{font-weight:700;}'
-
             echo '.pl-legend{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px;font-size:13px;color:#4b5563;}'
             echo '.pl-key{display:inline-flex;align-items:center;gap:6px;}'
             echo '.pl-dot{display:inline-block;width:10px;height:10px;border-radius:9999px;}'
@@ -66,7 +62,6 @@ jobs:
             echo '<tbody>'
 
             while IFS=$'\t' read -r rank team played won drawn lost gd pts; do
-
               row_class=""
               if [ "$rank" -le 5 ]; then
                 row_class="ucl"
@@ -84,17 +79,7 @@ jobs:
                 highlight_class="highlight"
               fi
 
-              echo "<tr class=\"$row_class $highlight_class\">\
-<td class=\"pl-rank\">$rank</td>\
-<td class=\"team\">$team</td>\
-<td>$played</td>\
-<td>$won</td>\
-<td>$drawn</td>\
-<td>$lost</td>\
-<td>$gd</td>\
-<td class=\"pl-pts\">$pts</td>\
-</tr>"
-
+              echo "<tr class=\"$row_class $highlight_class\"><td class=\"pl-rank\">$rank</td><td class=\"team\">$team</td><td>$played</td><td>$won</td><td>$drawn</td><td>$lost</td><td>$gd</td><td class=\"pl-pts\">$pts</td></tr>"
             done < <(
               echo "$DATA" | jq -r '
                 .tables[0].entries
@@ -125,40 +110,44 @@ jobs:
             echo '</div>'
           } > table.html
 
-          # ordinal conversion
-          if ((manu_rank % 100 >= 11 && manu_rank % 100 <= 13)); then
-            suffix="th"
+          if [ -z "$manu_rank" ]; then
+            manu_rank_ordinal="N/A"
           else
-            case $((manu_rank % 10)) in
-              1) suffix="st" ;;
-              2) suffix="nd" ;;
-              3) suffix="rd" ;;
-              *) suffix="th" ;;
-            esac
+            if [ $((manu_rank % 100)) -ge 11 ] && [ $((manu_rank % 100)) -le 13 ]; then
+              suffix="th"
+            else
+              case $((manu_rank % 10)) in
+                1) suffix="st" ;;
+                2) suffix="nd" ;;
+                3) suffix="rd" ;;
+                *) suffix="th" ;;
+              esac
+            fi
+            manu_rank_ordinal="${manu_rank}${suffix}"
           fi
-          manu_rank_ordinal="${manu_rank}${suffix}"
 
-          cat > manu_note.html <<EOF
-          <p>As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>${manu_rank_ordinal}</b> in the Premier League.</p>
-          EOF
+          printf '<p>As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>%s</b> in the Premier League.</p>\n' "$manu_rank_ordinal" > manu_note.html
 
       - name: Inject Manchester United note
+        shell: bash
         run: |
           awk '
-          /<!-- MANU_NOTE_START -->/ {print; system("cat manu_note.html"); skip=1; next}
-          /<!-- MANU_NOTE_END -->/ {skip=0; print; next}
+          /<!-- MANU_NOTE_START -->/ { print; system("cat manu_note.html"); skip=1; next }
+          /<!-- MANU_NOTE_END -->/ { skip=0; print; next }
           !skip
           ' _pages/sam.md > tmp.md && mv tmp.md _pages/sam.md
 
       - name: Inject table
+        shell: bash
         run: |
           awk '
-          /<!-- TABLE_START -->/ {print; system("cat table.html"); skip=1; next}
-          /<!-- TABLE_END -->/ {skip=0; print; next}
+          /<!-- TABLE_START -->/ { print; system("cat table.html"); skip=1; next }
+          /<!-- TABLE_END -->/ { skip=0; print; next }
           !skip
           ' _pages/sam.md > tmp2.md && mv tmp2.md _pages/sam.md
 
       - name: Commit changes
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
