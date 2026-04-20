@@ -4,6 +4,7 @@ title: Premier League Table
 permalink: /sam/
 author_profile: true
 ---
+<p>I am a huge fan of Manchester United, and in the 2025–2026 season we are currently competing on a single front and are ranked <b>$manu_rank</b> in the Premier League.</p>
 
 <!-- TABLE_START -->
 <style>
