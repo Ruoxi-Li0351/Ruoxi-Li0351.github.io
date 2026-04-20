@@ -39,6 +39,7 @@ jobs:
             echo '.pl-table tr.rel td:first-child{border-left:4px solid #dc2626;}'
             echo '.pl-rank{font-weight:600;}'
             echo '.pl-pts{font-weight:700;}'
+            echo '.pl-note{margin-top:8px;color:#6b7280;font-size:13px;}'
             echo '</style>'
 
             echo '<div class="pl-table-wrap">'
@@ -72,10 +73,20 @@ jobs:
                 row_class="rel"
               fi
 
+              # capture Manchester United rank
+              if [ "$team" = "Manchester United" ]; then
+                manu_rank=$rank
+              fi
+
               echo "<tr class=\"$row_class\"><td class=\"pl-rank\">$rank</td><td class=\"team\">$team</td><td>$played</td><td>$won</td><td>$drawn</td><td>$lost</td><td>$gd</td><td class=\"pl-pts\">$pts</td></tr>"
             done
 
-            echo '</tbody></table></div>'
+            echo '</tbody></table>'
+
+            # 👇 dynamic sentence
+            echo "<p class=\"pl-note\">As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>$manu_rank</b> in the Premier League.</p>"
+
+            echo '</div>'
           } > table.html
 
       - name: Inject table into page
