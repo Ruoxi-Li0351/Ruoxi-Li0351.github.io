@@ -7,7 +7,6 @@ author_profile: true
 <!-- MANU_NOTE_START -->
 <p>As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>3rd</b> in the Premier League.</p>
 <!-- MANU_NOTE_END -->
-Premier League Table
 <!-- TABLE_START -->
 <style>
 .pl-table-wrap{margin:1rem 0;border-radius:12px;border:1px solid #e5e7eb;background:#fff;}
