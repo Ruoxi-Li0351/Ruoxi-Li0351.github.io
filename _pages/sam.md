@@ -47,12 +47,12 @@ author_profile: true
 <tr class=" "><td class="pl-rank">8</td><td class="team">Chelsea</td><td>34</td><td>13</td><td>9</td><td>12</td><td>8</td><td class="pl-pts">48</td></tr>
 <tr class=" "><td class="pl-rank">9</td><td class="team">Brentford</td><td>33</td><td>13</td><td>9</td><td>11</td><td>4</td><td class="pl-pts">48</td></tr>
 <tr class=" "><td class="pl-rank">10</td><td class="team">Everton</td><td>33</td><td>13</td><td>8</td><td>12</td><td>1</td><td class="pl-pts">47</td></tr>
-<tr class=" "><td class="pl-rank">11</td><td class="team">Sunderland</td><td>33</td><td>12</td><td>10</td><td>11</td><td>-4</td><td class="pl-pts">46</td></tr>
+<tr class=" "><td class="pl-rank">11</td><td class="team">Sunderland</td><td>34</td><td>12</td><td>10</td><td>12</td><td>-9</td><td class="pl-pts">46</td></tr>
 <tr class=" "><td class="pl-rank">12</td><td class="team">Fulham</td><td>33</td><td>13</td><td>6</td><td>14</td><td>-3</td><td class="pl-pts">45</td></tr>
 <tr class=" "><td class="pl-rank">13</td><td class="team">Crystal Palace</td><td>32</td><td>11</td><td>10</td><td>11</td><td>-1</td><td class="pl-pts">43</td></tr>
 <tr class=" "><td class="pl-rank">14</td><td class="team">Newcastle United</td><td>33</td><td>12</td><td>6</td><td>15</td><td>-3</td><td class="pl-pts">42</td></tr>
 <tr class=" "><td class="pl-rank">15</td><td class="team">Leeds United</td><td>34</td><td>9</td><td>13</td><td>12</td><td>-7</td><td class="pl-pts">40</td></tr>
-<tr class=" "><td class="pl-rank">16</td><td class="team">Nottingham Forest</td><td>33</td><td>9</td><td>9</td><td>15</td><td>-9</td><td class="pl-pts">36</td></tr>
+<tr class=" "><td class="pl-rank">16</td><td class="team">Nottingham Forest</td><td>34</td><td>10</td><td>9</td><td>15</td><td>-4</td><td class="pl-pts">39</td></tr>
 <tr class=" "><td class="pl-rank">17</td><td class="team">West Ham United</td><td>33</td><td>8</td><td>9</td><td>16</td><td>-17</td><td class="pl-pts">33</td></tr>
 <tr class="rel "><td class="pl-rank">18</td><td class="team">Tottenham Hotspur</td><td>33</td><td>7</td><td>10</td><td>16</td><td>-11</td><td class="pl-pts">31</td></tr>
 <tr class="rel "><td class="pl-rank">19</td><td class="team">Burnley</td><td>34</td><td>4</td><td>8</td><td>22</td><td>-34</td><td class="pl-pts">20</td></tr>
