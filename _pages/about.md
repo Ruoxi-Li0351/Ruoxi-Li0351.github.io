@@ -13,8 +13,6 @@ redirect_from:
 
 ### Upcoming Event:
 1. <a href="https://bimsa.net/activity/Topingeoreptheandenugeo/">Topics in geometric representation theory and enumerative geometry</a>, online, April 15-June 12, 2026
-2. <a href="https://sites.google.com/site/agneshomepage/rutgers-2026?authuser=0">AGNES Rutgers 2026
-</a>, Rutgers University, USA, May 1-3, 2026.
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://math.illinois.edu/directory/profile/ruoxil4"> Ruoxi Li at UIUC</a>  
