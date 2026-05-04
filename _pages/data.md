@@ -8,7 +8,7 @@ author_profile: true
 
 1. <a href="https://math.stanford.edu/~vakil/conferences.html"> Upcoming conferences in algebraic geometry</a>/<a href="https://fdlist.math.uni-bielefeld.de/t/welcome-to-fdlist/21?_discourse_homepage_rewrite=1"> FDLIST on representation theory</a>
 /<a href="https://mathmeetings.net/ag-ct-rt"> Mathmeetings</a>
-2. <a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions curated by Angela Gibney </a> 
+2. <a href="https://kimballmartin.github.io/career-ad.html">Some Career Advice for Postdocs and Grad Students</a>/<a href="https://www.angelagibney.org/the-ec-by-topic/"> Collections of the early career suggestions</a> 
 3. <a href="https://researchseminars.org"> Research Seminars </a>
 
 ### Conferences in the Future (I may attend)
