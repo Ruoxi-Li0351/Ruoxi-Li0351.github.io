@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I will be a Math Fellow at the University of California, Riverside, mentored by Professor <a href="https://sites.google.com/view/tomgannon/home">Tom Gannon</a>, starting in Fall 2026.
-
-- I'm a seventh-year math PhD student at the University of Pittsburgh, under the guidance of Professor <a href="https://www.mathematics.pitt.edu/people/roman-fedorov">Roman Fedorov</a>. Before that, I received my master's degree from the University of Illinois Urbana-Champaign and bachelor's degree from Nankai University.
-
+- I will be a Math Fellow at the University of California, Riverside, mentored by Professor <a href="https://sites.google.com/view/tomgannon/home">Tom Gannon</a>, starting in Fall 2026. I received my Ph.D. from the University of Pittsburgh in 2026, under the guidance of Professor <a href="https://www.mathematics.pitt.edu/people/roman-fedorov">Roman Fedorov</a>.
 ### Upcoming Event:
 1. <a href="https://bimsa.net/activity/Topingeoreptheandenugeo/">Topics in geometric representation theory and enumerative geometry</a>, online, April 15-June 12, 2026
 
