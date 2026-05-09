@@ -40,12 +40,12 @@ author_profile: true
 <tr class="ucl "><td class="pl-rank">1</td><td class="team">Arsenal</td><td>35</td><td>23</td><td>7</td><td>5</td><td>41</td><td class="pl-pts">76</td></tr>
 <tr class="ucl "><td class="pl-rank">2</td><td class="team">Manchester City</td><td>34</td><td>21</td><td>8</td><td>5</td><td>37</td><td class="pl-pts">71</td></tr>
 <tr class="ucl highlight"><td class="pl-rank">3</td><td class="team">Manchester United</td><td>35</td><td>18</td><td>10</td><td>7</td><td>15</td><td class="pl-pts">64</td></tr>
-<tr class="ucl "><td class="pl-rank">4</td><td class="team">Liverpool</td><td>35</td><td>17</td><td>7</td><td>11</td><td>12</td><td class="pl-pts">58</td></tr>
+<tr class="ucl "><td class="pl-rank">4</td><td class="team">Liverpool</td><td>36</td><td>17</td><td>8</td><td>11</td><td>12</td><td class="pl-pts">59</td></tr>
 <tr class="ucl "><td class="pl-rank">5</td><td class="team">Aston Villa</td><td>35</td><td>17</td><td>7</td><td>11</td><td>4</td><td class="pl-pts">58</td></tr>
 <tr class="uel "><td class="pl-rank">6</td><td class="team">Bournemouth</td><td>35</td><td>12</td><td>16</td><td>7</td><td>3</td><td class="pl-pts">52</td></tr>
 <tr class="uecl "><td class="pl-rank">7</td><td class="team">Brentford</td><td>35</td><td>14</td><td>9</td><td>12</td><td>6</td><td class="pl-pts">51</td></tr>
 <tr class=" "><td class="pl-rank">8</td><td class="team">Brighton and Hove Albion</td><td>35</td><td>13</td><td>11</td><td>11</td><td>7</td><td class="pl-pts">50</td></tr>
-<tr class=" "><td class="pl-rank">9</td><td class="team">Chelsea</td><td>35</td><td>13</td><td>9</td><td>13</td><td>6</td><td class="pl-pts">48</td></tr>
+<tr class=" "><td class="pl-rank">9</td><td class="team">Chelsea</td><td>36</td><td>13</td><td>10</td><td>13</td><td>6</td><td class="pl-pts">49</td></tr>
 <tr class=" "><td class="pl-rank">10</td><td class="team">Everton</td><td>35</td><td>13</td><td>9</td><td>13</td><td>0</td><td class="pl-pts">48</td></tr>
 <tr class=" "><td class="pl-rank">11</td><td class="team">Fulham</td><td>35</td><td>14</td><td>6</td><td>15</td><td>-5</td><td class="pl-pts">48</td></tr>
 <tr class=" "><td class="pl-rank">12</td><td class="team">Sunderland</td><td>35</td><td>12</td><td>11</td><td>12</td><td>-9</td><td class="pl-pts">47</td></tr>
