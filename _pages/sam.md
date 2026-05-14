@@ -38,7 +38,7 @@ author_profile: true
 <thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>PTS</th></tr></thead>
 <tbody>
 <tr class="ucl "><td class="pl-rank">1</td><td class="team">Arsenal</td><td>36</td><td>24</td><td>7</td><td>5</td><td>42</td><td class="pl-pts">79</td></tr>
-<tr class="ucl "><td class="pl-rank">2</td><td class="team">Manchester City</td><td>35</td><td>22</td><td>8</td><td>5</td><td>40</td><td class="pl-pts">74</td></tr>
+<tr class="ucl "><td class="pl-rank">2</td><td class="team">Manchester City</td><td>36</td><td>23</td><td>8</td><td>5</td><td>43</td><td class="pl-pts">77</td></tr>
 <tr class="ucl highlight"><td class="pl-rank">3</td><td class="team">Manchester United</td><td>36</td><td>18</td><td>11</td><td>7</td><td>15</td><td class="pl-pts">65</td></tr>
 <tr class="ucl "><td class="pl-rank">4</td><td class="team">Liverpool</td><td>36</td><td>17</td><td>8</td><td>11</td><td>12</td><td class="pl-pts">59</td></tr>
 <tr class="ucl "><td class="pl-rank">5</td><td class="team">Aston Villa</td><td>36</td><td>17</td><td>8</td><td>11</td><td>4</td><td class="pl-pts">59</td></tr>
@@ -51,7 +51,7 @@ author_profile: true
 <tr class=" "><td class="pl-rank">12</td><td class="team">Sunderland</td><td>36</td><td>12</td><td>12</td><td>12</td><td>-9</td><td class="pl-pts">48</td></tr>
 <tr class=" "><td class="pl-rank">13</td><td class="team">Newcastle United</td><td>36</td><td>13</td><td>7</td><td>16</td><td>-2</td><td class="pl-pts">46</td></tr>
 <tr class=" "><td class="pl-rank">14</td><td class="team">Leeds United</td><td>36</td><td>10</td><td>14</td><td>12</td><td>-5</td><td class="pl-pts">44</td></tr>
-<tr class=" "><td class="pl-rank">15</td><td class="team">Crystal Palace</td><td>35</td><td>11</td><td>11</td><td>13</td><td>-6</td><td class="pl-pts">44</td></tr>
+<tr class=" "><td class="pl-rank">15</td><td class="team">Crystal Palace</td><td>36</td><td>11</td><td>11</td><td>14</td><td>-9</td><td class="pl-pts">44</td></tr>
 <tr class=" "><td class="pl-rank">16</td><td class="team">Nottingham Forest</td><td>36</td><td>11</td><td>10</td><td>15</td><td>-2</td><td class="pl-pts">43</td></tr>
 <tr class=" "><td class="pl-rank">17</td><td class="team">Tottenham Hotspur</td><td>36</td><td>9</td><td>11</td><td>16</td><td>-9</td><td class="pl-pts">38</td></tr>
 <tr class="rel "><td class="pl-rank">18</td><td class="team">West Ham United</td><td>36</td><td>9</td><td>9</td><td>18</td><td>-20</td><td class="pl-pts">36</td></tr>
