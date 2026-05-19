@@ -37,7 +37,7 @@ author_profile: true
 <table class="pl-table">
 <thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>PTS</th></tr></thead>
 <tbody>
-<tr class="ucl "><td class="pl-rank">1</td><td class="team">Arsenal</td><td>36</td><td>24</td><td>7</td><td>5</td><td>42</td><td class="pl-pts">79</td></tr>
+<tr class="ucl "><td class="pl-rank">1</td><td class="team">Arsenal</td><td>37</td><td>25</td><td>7</td><td>5</td><td>43</td><td class="pl-pts">82</td></tr>
 <tr class="ucl "><td class="pl-rank">2</td><td class="team">Manchester City</td><td>36</td><td>23</td><td>8</td><td>5</td><td>43</td><td class="pl-pts">77</td></tr>
 <tr class="ucl highlight"><td class="pl-rank">3</td><td class="team">Manchester United</td><td>37</td><td>19</td><td>11</td><td>7</td><td>16</td><td class="pl-pts">68</td></tr>
 <tr class="ucl "><td class="pl-rank">4</td><td class="team">Aston Villa</td><td>37</td><td>18</td><td>8</td><td>11</td><td>6</td><td class="pl-pts">62</td></tr>
@@ -55,7 +55,7 @@ author_profile: true
 <tr class=" "><td class="pl-rank">16</td><td class="team">Nottingham Forest</td><td>37</td><td>11</td><td>10</td><td>16</td><td>-3</td><td class="pl-pts">43</td></tr>
 <tr class=" "><td class="pl-rank">17</td><td class="team">Tottenham Hotspur</td><td>36</td><td>9</td><td>11</td><td>16</td><td>-9</td><td class="pl-pts">38</td></tr>
 <tr class="rel "><td class="pl-rank">18</td><td class="team">West Ham United</td><td>37</td><td>9</td><td>9</td><td>19</td><td>-22</td><td class="pl-pts">36</td></tr>
-<tr class="rel "><td class="pl-rank">19</td><td class="team">Burnley</td><td>36</td><td>4</td><td>9</td><td>23</td><td>-36</td><td class="pl-pts">21</td></tr>
+<tr class="rel "><td class="pl-rank">19</td><td class="team">Burnley</td><td>37</td><td>4</td><td>9</td><td>24</td><td>-37</td><td class="pl-pts">21</td></tr>
 <tr class="rel "><td class="pl-rank">20</td><td class="team">Wolverhampton Wanderers</td><td>37</td><td>3</td><td>10</td><td>24</td><td>-41</td><td class="pl-pts">19</td></tr>
 </tbody></table>
 <div class="pl-legend">
