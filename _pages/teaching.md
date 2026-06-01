@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I have taught various undergraduate level math courses and below is the list.
-### University of Pittsburgh 2019-present
+### University of Pittsburgh 2019-2026
 ### Lecturer
 Differential Equations (MATH 0290), Summer 2024
 ### Teaching Assistant 
