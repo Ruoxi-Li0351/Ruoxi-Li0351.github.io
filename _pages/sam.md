@@ -44,7 +44,7 @@ author_profile: true
 <tr class="ucl "><td class="pl-rank">5</td><td class="team">Liverpool</td><td>38</td><td>17</td><td>9</td><td>12</td><td>10</td><td class="pl-pts">60</td></tr>
 <tr class="uel "><td class="pl-rank">6</td><td class="team">Bournemouth</td><td>38</td><td>13</td><td>18</td><td>7</td><td>4</td><td class="pl-pts">57</td></tr>
 <tr class="uecl "><td class="pl-rank">7</td><td class="team">Sunderland</td><td>38</td><td>14</td><td>12</td><td>12</td><td>-6</td><td class="pl-pts">54</td></tr>
-<tr class=" "><td class="pl-rank">8</td><td class="team">Brighton and Hove Albion</td><td>38</td><td>14</td><td>11</td><td>13</td><td>6</td><td class="pl-pts">53</td></tr>
+<tr class=" "><td class="pl-rank">8</td><td class="team">Brighton & Hove Albion</td><td>38</td><td>14</td><td>11</td><td>13</td><td>6</td><td class="pl-pts">53</td></tr>
 <tr class=" "><td class="pl-rank">9</td><td class="team">Brentford</td><td>38</td><td>14</td><td>11</td><td>13</td><td>3</td><td class="pl-pts">53</td></tr>
 <tr class=" "><td class="pl-rank">10</td><td class="team">Chelsea</td><td>38</td><td>14</td><td>10</td><td>14</td><td>6</td><td class="pl-pts">52</td></tr>
 <tr class=" "><td class="pl-rank">11</td><td class="team">Fulham</td><td>38</td><td>15</td><td>7</td><td>16</td><td>-4</td><td class="pl-pts">52</td></tr>
