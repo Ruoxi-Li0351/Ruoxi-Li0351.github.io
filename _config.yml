@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Ruoxi Li’s Homepage"
 title_separator          : "-"
 name                     : &name "Ruoxi"
-description              : &description "PhD student - U Pitt"
+description              : &description ""
 url                      : https://Ruoxi-Li0351.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ruoxi-Li0351.github.io"
@@ -94,7 +94,7 @@ author:
   employer         :
   university       : #"UPitt"
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=YULUlSIAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "ruoxi.li1@ucr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
