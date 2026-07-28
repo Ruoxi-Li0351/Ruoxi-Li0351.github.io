@@ -9,7 +9,7 @@ redirect_from:
 ---
 - I'm a Math Fellow at the University of California, Riverside, mentored by Professor <a href="https://sites.google.com/view/tomgannon/home">Tom Gannon</a>. I received my Ph.D. from the University of Pittsburgh in 2026, under the guidance of Professor <a href="https://www.mathematics.pitt.edu/people/roman-fedorov">Roman Fedorov</a>.
 
-- My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations. Recently, I have also been interested in invariant D-modules.
+- My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations.
 ### Upcoming Event:
 1. <a href="https://math.virginia.edu/ims/selie_icm2026/">Algebraic and Geometric Representation Theory (ICM 2026 Satellite Conference)</a>, University of Virginia, USA, July 17–21, 2026.
 
