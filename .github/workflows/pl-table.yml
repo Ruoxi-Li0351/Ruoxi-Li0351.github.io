@@ -24,7 +24,7 @@ jobs:
         run: |
           set -e
 
-          DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2025/standings")
+          DATA=$(curl -fsSL "https://sdp-prem-prod.premier-league-prod.pulselive.com/api/v5/competitions/8/seasons/2026/standings")
           echo "$DATA" | jq . > /dev/null
 
           manu_rank=""
@@ -126,7 +126,7 @@ jobs:
             manu_rank_ordinal="${manu_rank}${suffix}"
           fi
 
-          printf '<p>As a huge Manchester United fan, I’m following the 2025–2026 season closely—currently, we are competing on a single front and sit <b>%s</b> in the Premier League.</p>\n' "$manu_rank_ordinal" > manu_note.html
+          printf '<p>As a huge Manchester United fan, I’m following the 2026–2027 season closely—currently, we sit <b>%s</b> in the Premier League.</p>\n' "$manu_rank_ordinal" > manu_note.html
 
       - name: Inject Manchester United note
         shell: bash
