@@ -5,7 +5,7 @@ permalink: /data/
 author_profile: true
 ---
 ### Useful Links
-1. Annual western conferences on algebraic geometry and representation theory: <a href="https://sites.google.com/a/wagsymposium.org/current/">WAGS</a>/<a href="https://pages.uoregon.edu/belias/WARTHOG/index.html">WARTHOG</a>/<a href="https://franksottile.github.io/conferences/TAGS26/index.html">TAGS</a>
+1. Annual western conferences on algebraic geometry and representation theory: <a href="https://sites.google.com/a/wagsymposium.org/current/">WAGS</a>/<a href="https://pages.uoregon.edu/belias/WARTHOG/index.html">WARTHOG</a>/<a href="https://franksottile.github.io/conferences/TAGS26/index.html">TAGS</a>/<a href="https://sites.google.com/view/7cmu-conference/">CMU Conference</a>
 2. Annual eastern conferences on algebraic geometry: <a href="https://sites.google.com/site/agneshomepage/algebraic-geometry-northeastern-series?authuser=0">AGNES</a>/<a href="https://sites.google.com/view/gags2025/home?authuser=0">GAGS</a>/<a href="https://geometryvcu.github.io/rgmmain/">RGM</a>
 2. <a href="https://math.stanford.edu/~vakil/conferences.html">Upcoming conferences in algebraic geometry</a>/<a href="https://fdlist.math.uni-bielefeld.de/t/welcome-to-fdlist/21?_discourse_homepage_rewrite=1">FDLIST on representation theory</a>
 /<a href="https://mathmeetings.net/ag-ct-rt">Mathmeetings</a>
