@@ -12,7 +12,7 @@ Introduction to Discrete Structures (MATH 11)
 
 Calculus for Business (MATH 22)
 
-Students enrolled in these courses should consult Canvas (e-Learn) for announcements, assignments, course materials, and grades.
+Students enrolled in these courses should consult <a href="https://canvas.ucr.edu/">Canvas (e-Learn)</a> for announcements, assignments, course materials, and grades.
 ### University of Pittsburgh 2019-2026
 ### Instructor
 Differential Equations (MATH 0290), Summer 2024
