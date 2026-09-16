@@ -8,9 +8,9 @@ author_profile: true
 I have taught a variety of undergraduate mathematics courses. Current courses and previous teaching experience are listed below.
 
 ### Current Courses (Fall 2026)
-Introduction to Discrete Structures (MATH 11)
+1. Introduction to Discrete Structures (MATH 11)
 
-Calculus for Business (MATH 22)
+2. Calculus for Business (MATH 22)
 
 Students enrolled in these courses should consult <a href="https://canvas.ucr.edu/">Canvas (e-Learn)</a> for announcements, assignments, course materials, and grades.
 ### University of Pittsburgh 2019-2026
