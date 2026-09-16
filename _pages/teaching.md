@@ -5,9 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have taught various undergraduate level math courses and below is the list.
+I have taught a variety of undergraduate mathematics courses. Current courses and previous teaching experience are listed below.
+
+### Current Courses (Fall 2026)
+Introduction to Discrete Structures (MATH 11)
+
+Calculus for Business (MATH 22)
+
+Students enrolled in these courses should consult Canvas (e-Learn) for announcements, assignments, course materials, and grades.
 ### University of Pittsburgh 2019-2026
-### Lecturer
+### Instructor
 Differential Equations (MATH 0290), Summer 2024
 ### Teaching Assistant 
 Business Calculus (MATH 0120), Fall 2020, 2021, Summer 2025
