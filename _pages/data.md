@@ -13,4 +13,4 @@ A guide for young mathematicians</a>
 
 ### Conferences in the Future (I may attend)
 1. <a href="https://www.slmath.org/workshops/1162">Geometric Representation Theory and 3d Mirror Symmetry</a>, Berkeley, USA, October 5-9, 2026.
-2. <a href="https://sites.google.com/a/wagsymposium.org/current/utah-fall-2026?authuser=0">Geometric Representation Theory and 3d Mirror Symmetry</a>, University of Utah, Salt Lake City, USA, December 4-6, 2026.
+2. <a href="https://sites.google.com/a/wagsymposium.org/current/utah-fall-2026?authuser=0">Western Algebraic Geometry Symposium</a>, University of Utah, Salt Lake City, USA, December 4-6, 2026.
