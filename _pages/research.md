@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations. You can find my papers on <a href="https://arxiv.org/a/li_r_8.html" target="_blank">arXiv</a> and <a href="https://scholar.google.com/citations?hl=en&user=YULUlSIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
+My research focuses on algebraic geometry and representation theory. More specifically, I am interested in moduli stacks of Higgs bundles and bundles with connections, character varieties, and moduli spaces of quiver representations. Recently, I have also become interested in questions surrounding symplectic resolutions.
+
+You can find my papers on <a href="https://arxiv.org/a/li_r_8.html" target="_blank">arXiv</a> and <a href="https://scholar.google.com/citations?hl=en&user=YULUlSIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
 ### Publications and Preprints
 <ol reversed start="3">
   <li>Invariant algebraic connections on connected reductive groups (with <a href="https://sites.google.com/view/rudrendrakashyap/home" target="_blank">Rudrendra Kashyap</a>). <strong>Algebras and Representation Theory</strong>. <a href="https://doi.org/10.1007/s10468-026-10423-3" target="_blank">Journal</a>. <a href="https://arxiv.org/abs/2601.10934" target="_blank">arXiv</a>.</li>
