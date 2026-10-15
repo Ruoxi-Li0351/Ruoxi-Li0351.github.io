@@ -11,7 +11,7 @@ You can find my papers on <a href="https://arxiv.org/a/li_r_8.html" target="_bla
 <ol reversed start="3">
   <li>Invariant algebraic connections on connected reductive groups (with <a href="https://sites.google.com/view/rudrendrakashyap/home" target="_blank">Rudrendra Kashyap</a>). <strong>Algebras and Representation Theory</strong>. <a href="https://doi.org/10.1007/s10468-026-10423-3" target="_blank">Journal</a>. <a href="https://arxiv.org/abs/2601.10934" target="_blank">arXiv</a>.</li>
   <li>Motivic classes of stacks in finite characteristic and applications to stacks of Higgs bundles. Submitted. <a href="https://arxiv.org/abs/2509.09861" target="_blank">arXiv: 2509.09861</a>.</li>
-  <li>Explicit formulas for mixed Hodge polynomials of character varieties of nilpotent groups (with <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>). Submitted. <a href="https://arxiv.org/abs/2410.10008" target="_blank">arXiv: 2410.10008</a>.</li>
+  <li>Explicit formulas for mixed Hodge polynomials of character varieties of nilpotent groups (with <a href="https://sites.google.com/view/singh-rahul/home" target="_blank">Rahul Singh</a>). To appear in <strong>Asian Journal of Mathematics</strong>. <a href="https://arxiv.org/abs/2410.10008" target="_blank">arXiv: 2410.10008</a>.</li>
 </ol>
 
 ### Work in Progress
