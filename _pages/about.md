@@ -14,7 +14,7 @@ redirect_from:
 - In Fall 2026, I will be teaching Math 11: Introduction to Discrete Structures and Math 22: Calculus for Business.
 ### Upcoming Event:
 1. <a href="https://www.ams.org/meetings/sectional/2335_program_ss32.html">AMS Special Session on Pure mathematics adjacent to topological quantum field theories</a>, Arizona State University, Tempe, AZ, USA, November 7-8, 2026.
-2. <a href="https://sites.google.com/a/wagsymposium.org/current/utah-fall-2026?authuser=0">Western Algebraic Geometry Symposium</a>, University of Utah, Salt Lake City, USA, December 4-6, 2026.
+2. <a href="https://sites.google.com/a/wagsymposium.org/current/utah-fall-2026?authuser=0">Western Algebraic Geometry Symposium</a>, University of Utah, Salt Lake City, UT, USA, December 4-6, 2026.
 
 TRIVIA. There are at least two more Ruoxis working in algebraic geometry:    
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
