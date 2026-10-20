@@ -54,11 +54,11 @@ author_profile: true
 <tr class=" highlight"><td class="pl-rank">13</td><td class="team">Manchester United</td><td>7</td><td>1</td><td>4</td><td>2</td><td>0</td><td class="pl-pts">7</td></tr>
 <tr class=" "><td class="pl-rank">14</td><td class="team">Crystal Palace</td><td>7</td><td>2</td><td>1</td><td>4</td><td>-8</td><td class="pl-pts">7</td></tr>
 <tr class=" "><td class="pl-rank">15</td><td class="team">Bournemouth</td><td>7</td><td>1</td><td>3</td><td>3</td><td>-4</td><td class="pl-pts">6</td></tr>
-<tr class=" "><td class="pl-rank">16</td><td class="team">Coventry City</td><td>6</td><td>2</td><td>0</td><td>4</td><td>-6</td><td class="pl-pts">6</td></tr>
-<tr class=" "><td class="pl-rank">17</td><td class="team">Fulham</td><td>7</td><td>1</td><td>2</td><td>4</td><td>-3</td><td class="pl-pts">5</td></tr>
-<tr class="rel "><td class="pl-rank">18</td><td class="team">Nottingham Forest</td><td>7</td><td>1</td><td>2</td><td>4</td><td>-4</td><td class="pl-pts">5</td></tr>
-<tr class="rel "><td class="pl-rank">19</td><td class="team">Sunderland</td><td>7</td><td>1</td><td>1</td><td>5</td><td>-8</td><td class="pl-pts">4</td></tr>
-<tr class="rel "><td class="pl-rank">20</td><td class="team">Tottenham Hotspur</td><td>6</td><td>0</td><td>3</td><td>3</td><td>-6</td><td class="pl-pts">3</td></tr>
+<tr class=" "><td class="pl-rank">16</td><td class="team">Tottenham Hotspur</td><td>7</td><td>1</td><td>3</td><td>3</td><td>-4</td><td class="pl-pts">6</td></tr>
+<tr class=" "><td class="pl-rank">17</td><td class="team">Coventry City</td><td>7</td><td>2</td><td>0</td><td>5</td><td>-8</td><td class="pl-pts">6</td></tr>
+<tr class="rel "><td class="pl-rank">18</td><td class="team">Fulham</td><td>7</td><td>1</td><td>2</td><td>4</td><td>-3</td><td class="pl-pts">5</td></tr>
+<tr class="rel "><td class="pl-rank">19</td><td class="team">Nottingham Forest</td><td>7</td><td>1</td><td>2</td><td>4</td><td>-4</td><td class="pl-pts">5</td></tr>
+<tr class="rel "><td class="pl-rank">20</td><td class="team">Sunderland</td><td>7</td><td>1</td><td>1</td><td>5</td><td>-8</td><td class="pl-pts">4</td></tr>
 </tbody></table>
 <div class="pl-legend">
 <span class="pl-key"><span class="pl-dot pl-dot-ucl"></span>UEFA Champions League</span>
