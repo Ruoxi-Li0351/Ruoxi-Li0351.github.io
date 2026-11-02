@@ -39,11 +39,11 @@ author_profile: true
 <table class="pl-table">
 <thead><tr><th>Rank</th><th class="team">Team</th><th>PL</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>PTS</th></tr></thead>
 <tbody>
-<tr class="ucl "><td class="pl-rank">1</td><td class="team">Manchester City</td><td>9</td><td>7</td><td>0</td><td>2</td><td>10</td><td class="pl-pts">21</td></tr>
-<tr class="ucl "><td class="pl-rank">2</td><td class="team">Arsenal</td><td>8</td><td>7</td><td>0</td><td>1</td><td>8</td><td class="pl-pts">21</td></tr>
+<tr class="ucl "><td class="pl-rank">1</td><td class="team">Arsenal</td><td>9</td><td>8</td><td>0</td><td>1</td><td>9</td><td class="pl-pts">24</td></tr>
+<tr class="ucl "><td class="pl-rank">2</td><td class="team">Manchester City</td><td>9</td><td>7</td><td>0</td><td>2</td><td>10</td><td class="pl-pts">21</td></tr>
 <tr class="ucl "><td class="pl-rank">3</td><td class="team">Brighton and Hove Albion</td><td>9</td><td>6</td><td>1</td><td>2</td><td>17</td><td class="pl-pts">19</td></tr>
 <tr class="ucl "><td class="pl-rank">4</td><td class="team">Chelsea</td><td>9</td><td>5</td><td>1</td><td>3</td><td>4</td><td class="pl-pts">16</td></tr>
-<tr class="ucl "><td class="pl-rank">5</td><td class="team">Liverpool</td><td>8</td><td>4</td><td>3</td><td>1</td><td>3</td><td class="pl-pts">15</td></tr>
+<tr class="ucl "><td class="pl-rank">5</td><td class="team">Liverpool</td><td>9</td><td>4</td><td>3</td><td>2</td><td>2</td><td class="pl-pts">15</td></tr>
 <tr class="uel "><td class="pl-rank">6</td><td class="team">Brentford</td><td>9</td><td>3</td><td>5</td><td>1</td><td>7</td><td class="pl-pts">14</td></tr>
 <tr class="uecl "><td class="pl-rank">7</td><td class="team">Bournemouth</td><td>9</td><td>3</td><td>3</td><td>3</td><td>1</td><td class="pl-pts">12</td></tr>
 <tr class=" "><td class="pl-rank">8</td><td class="team">Tottenham Hotspur</td><td>9</td><td>3</td><td>3</td><td>3</td><td>0</td><td class="pl-pts">12</td></tr>
