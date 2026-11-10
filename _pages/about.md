@@ -15,8 +15,7 @@ redirect_from:
 ### Upcoming Event:
 1. <a href="https://sites.google.com/a/wagsymposium.org/current/utah-fall-2026?authuser=0">Western Algebraic Geometry Symposium</a>, University of Utah, Salt Lake City, UT, USA, December 4-6, 2026.
 
-TRIVIA. There are at least two more Ruoxis working in algebraic geometry, both on the job market this fall (2026). 
-#### If you're looking to hire a Ruoxi, get in touch with them:   
+TRIVIA. There are at least two more Ruoxis working in algebraic geometry, both on the job market this fall (2026). ##If you're looking to hire a Ruoxi, get in touch with them:##   
 <a href="https://sites.google.com/view/liruoxi"> Ruoxi Li at UIUC</a>  
 <a href="https://ruoxilrx.github.io"> Ruoxi Li at UC Berkeley</a>  
 
